@@ -100,6 +100,6 @@ Released under the [MIT License](LICENSE).
   series    = {Lecture Notes of the Institute for Computer Sciences, Social
                Informatics and Telecommunications Engineering (LNICST)},
   year      = {2026},
-  note      = {Code and evidence package: https://github.com/xxx/SSRA-BICTA2026}
+  note      = {Code and evidence package: https://github.com/L-123DAN/SSRA-BICTA2026}
 }
 ```
