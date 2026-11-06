@@ -1,0 +1,16 @@
+category,shot,support_seed,training_seed,support_paths,I_AUROC
+candle,1,3407,111,"[""candle/Data/Images/Normal/0475.JPG""]",80.17
+candle,1,42,111,"[""candle/Data/Images/Normal/0233.JPG""]",70.26
+candle,1,2026,111,"[""candle/Data/Images/Normal/0271.JPG""]",82.82
+candle,1,123,111,"[""candle/Data/Images/Normal/0397.JPG""]",43.95
+candle,1,2024,111,"[""candle/Data/Images/Normal/0146.JPG""]",86.61
+pcb1,1,3407,111,"[""pcb1/Data/Images/Normal/0480.JPG""]",88.18
+pcb1,1,42,111,"[""pcb1/Data/Images/Normal/0503.JPG""]",87.42
+pcb1,1,2026,111,"[""pcb1/Data/Images/Normal/0667.JPG""]",44.46
+pcb1,1,123,111,"[""pcb1/Data/Images/Normal/0313.JPG""]",88.19
+pcb1,1,2024,111,"[""pcb1/Data/Images/Normal/0715.JPG""]",48.68
+cashew,1,3407,111,"[""cashew/Data/Images/Normal/112.JPG""]",89.16
+cashew,1,42,111,"[""cashew/Data/Images/Normal/137.JPG""]",89.38
+cashew,1,2026,111,"[""cashew/Data/Images/Normal/103.JPG""]",92.54
+cashew,1,123,111,"[""cashew/Data/Images/Normal/037.JPG""]",92.28
+cashew,1,2024,111,"[""cashew/Data/Images/Normal/483.JPG""]",89.54

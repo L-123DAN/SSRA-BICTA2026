@@ -1,0 +1,316 @@
+detector,dataset,category,shot,support_seed,training_seed,support_paths,I_AUROC,P_AUROC,AUPRO,matrix_reused
+PromptAD,VisA,cashew,1,3407,111,"[""cashew/Data/Images/Normal/112.JPG""]",89.16,98.31,89.70678395469598,0
+PromptAD,VisA,cashew,1,42,111,"[""cashew/Data/Images/Normal/137.JPG""]",89.38,98.65,89.56851024046463,0
+PromptAD,VisA,cashew,1,2026,111,"[""cashew/Data/Images/Normal/103.JPG""]",92.54,98.38,89.39684119865915,0
+PromptAD,VisA,cashew,1,123,111,"[""cashew/Data/Images/Normal/037.JPG""]",92.28,98.37,86.58432024220633,0
+PromptAD,VisA,cashew,1,2024,111,"[""cashew/Data/Images/Normal/483.JPG""]",89.54,98.36,89.3319559412185,0
+PromptAD,VisA,candle,1,3407,111,"[""candle/Data/Images/Normal/0475.JPG""]",80.17,92.27,87.72522725700065,0
+PromptAD,VisA,candle,1,42,111,"[""candle/Data/Images/Normal/0233.JPG""]",70.26,92.27,86.34632120630992,0
+PromptAD,VisA,candle,1,2026,111,"[""candle/Data/Images/Normal/0271.JPG""]",82.82,92.13,86.63495755084527,0
+PromptAD,VisA,candle,1,123,111,"[""candle/Data/Images/Normal/0397.JPG""]",43.95,90.93,84.85477980173522,0
+PromptAD,VisA,candle,1,2024,111,"[""candle/Data/Images/Normal/0146.JPG""]",86.61,92.96,89.16090686267698,0
+PromptAD,VisA,capsules,1,3407,111,"[""capsules/Data/Images/Normal/149.JPG""]",71.22,67.25,19.154836998142766,0
+PromptAD,VisA,capsules,1,42,111,"[""capsules/Data/Images/Normal/558.JPG""]",68.97,64.99,21.210658514473536,0
+PromptAD,VisA,capsules,1,2026,111,"[""capsules/Data/Images/Normal/492.JPG""]",75.83,61.01,14.969235692132434,0
+PromptAD,VisA,capsules,1,123,111,"[""capsules/Data/Images/Normal/438.JPG""]",71.43,59.26,13.828626773379677,0
+PromptAD,VisA,capsules,1,2024,111,"[""capsules/Data/Images/Normal/053.JPG""]",75.98,59.12,17.148957846560112,0
+PromptAD,VisA,pcb1,1,3407,111,"[""pcb1/Data/Images/Normal/0480.JPG""]",88.18,92.3,86.12839628910247,0
+PromptAD,VisA,pcb1,1,42,111,"[""pcb1/Data/Images/Normal/0503.JPG""]",87.42,90.95,87.01443153457743,0
+PromptAD,VisA,pcb1,1,2026,111,"[""pcb1/Data/Images/Normal/0667.JPG""]",44.46,94.06,81.40209393654027,0
+PromptAD,VisA,pcb1,1,123,111,"[""pcb1/Data/Images/Normal/0313.JPG""]",88.19,92.91,87.29374104487015,0
+PromptAD,VisA,pcb1,1,2024,111,"[""pcb1/Data/Images/Normal/0715.JPG""]",48.68,93.91,78.2327906908731,0
+PromptAD,VisA,macaroni1,1,3407,111,"[""macaroni1/Data/Images/Normal/0285.JPG""]",86.09,96.55,88.36504089370708,0
+PromptAD,VisA,macaroni1,1,42,111,"[""macaroni1/Data/Images/Normal/0450.JPG""]",83.62,96.87,89.16112346783102,0
+PromptAD,VisA,macaroni1,1,2026,111,"[""macaroni1/Data/Images/Normal/0513.JPG""]",85.97,96.2,89.01608511022526,0
+PromptAD,VisA,macaroni1,1,123,111,"[""macaroni1/Data/Images/Normal/0696.JPG""]",84.54,96.84,88.86404914601292,0
+PromptAD,VisA,macaroni1,1,2024,111,"[""macaroni1/Data/Images/Normal/0315.JPG""]",87.41,96.83,90.45503874782779,0
+PromptAD,VisA,pipe_fryum,1,3407,111,"[""pipe_fryum/Data/Images/Normal/095.JPG""]",72.44,98.86,92.54058324626689,0
+PromptAD,VisA,pipe_fryum,1,42,111,"[""pipe_fryum/Data/Images/Normal/064.JPG""]",86.76,98.53,93.194808746034,0
+PromptAD,VisA,pipe_fryum,1,2026,111,"[""pipe_fryum/Data/Images/Normal/301.JPG""]",90.5,98.72,94.37846209943191,0
+PromptAD,VisA,pipe_fryum,1,123,111,"[""pipe_fryum/Data/Images/Normal/293.JPG""]",86.1,98.75,94.54836315608912,0
+PromptAD,VisA,pipe_fryum,1,2024,111,"[""pipe_fryum/Data/Images/Normal/045.JPG""]",79.34,99.08,92.30456718183612,0
+PromptAD,VisA,chewinggum,1,3407,111,"[""chewinggum/Data/Images/Normal/142.JPG""]",95.42,98.93,88.2505741609438,0
+PromptAD,VisA,chewinggum,1,42,111,"[""chewinggum/Data/Images/Normal/340.JPG""]",94.7,98.98,88.91222835639343,0
+PromptAD,VisA,chewinggum,1,2026,111,"[""chewinggum/Data/Images/Normal/150.JPG""]",93.5,98.93,88.79249102347859,0
+PromptAD,VisA,chewinggum,1,123,111,"[""chewinggum/Data/Images/Normal/484.JPG""]",95.48,98.91,88.26126745989521,0
+PromptAD,VisA,chewinggum,1,2024,111,"[""chewinggum/Data/Images/Normal/008.JPG""]",93.58,98.93,87.91894118308082,0
+PromptAD,VisA,fryum,1,3407,111,"[""fryum/Data/Images/Normal/253.JPG""]",91.1,94.04,76.49727622934215,0
+PromptAD,VisA,fryum,1,42,111,"[""fryum/Data/Images/Normal/160.JPG""]",90.7,95.25,80.1735426877184,0
+PromptAD,VisA,fryum,1,2026,111,"[""fryum/Data/Images/Normal/281.JPG""]",93.3,94.04,81.35570948472606,0
+PromptAD,VisA,fryum,1,123,111,"[""fryum/Data/Images/Normal/179.JPG""]",90.72,95.02,83.88132197322382,0
+PromptAD,VisA,fryum,1,2024,111,"[""fryum/Data/Images/Normal/422.JPG""]",91.8,93.66,74.3477388049811,0
+PromptAD,VisA,macaroni2,1,3407,111,"[""macaroni2/Data/Images/Normal/0204.JPG""]",59.51,94.61,82.32645275110309,0
+PromptAD,VisA,macaroni2,1,42,111,"[""macaroni2/Data/Images/Normal/0471.JPG""]",54.9,92.68,69.7351877900996,0
+PromptAD,VisA,macaroni2,1,2026,111,"[""macaroni2/Data/Images/Normal/0197.JPG""]",56.79,93.74,73.99765563236296,0
+PromptAD,VisA,macaroni2,1,123,111,"[""macaroni2/Data/Images/Normal/0815.JPG""]",57.6,94.01,78.91083927198544,0
+PromptAD,VisA,macaroni2,1,2024,111,"[""macaroni2/Data/Images/Normal/0586.JPG""]",52.91,93.83,77.7075435349946,0
+PromptAD,VisA,pcb2,1,3407,111,"[""pcb2/Data/Images/Normal/0757.JPG""]",75.05,89.91,63.93046607201502,0
+PromptAD,VisA,pcb2,1,42,111,"[""pcb2/Data/Images/Normal/0517.JPG""]",66.31,88.51,63.35197581368257,0
+PromptAD,VisA,pcb2,1,2026,111,"[""pcb2/Data/Images/Normal/0058.JPG""]",70.15,89.91,65.47416572272763,0
+PromptAD,VisA,pcb2,1,123,111,"[""pcb2/Data/Images/Normal/0428.JPG""]",78.23,90.36,68.69954744607284,0
+PromptAD,VisA,pcb2,1,2024,111,"[""pcb2/Data/Images/Normal/0066.JPG""]",66.02,91.04,69.59420406719778,0
+PromptAD,VisA,pcb3,1,3407,111,"[""pcb3/Data/Images/Normal/0097.JPG""]",72.06,94.64,73.7685179696684,0
+PromptAD,VisA,pcb3,1,42,111,"[""pcb3/Data/Images/Normal/0305.JPG""]",65.51,89.88,66.6670646140569,0
+PromptAD,VisA,pcb3,1,2026,111,"[""pcb3/Data/Images/Normal/0194.JPG""]",65.68,90.4,72.43211930966869,0
+PromptAD,VisA,pcb3,1,123,111,"[""pcb3/Data/Images/Normal/0219.JPG""]",67.97,93.09,79.99050103723219,0
+PromptAD,VisA,pcb3,1,2024,111,"[""pcb3/Data/Images/Normal/0278.JPG""]",66.57,92.11,74.79047118962204,0
+PromptAD,VisA,pcb4,1,3407,111,"[""pcb4/Data/Images/Normal/0452.JPG""]",92.63,93.42,80.13896445279353,0
+PromptAD,VisA,pcb4,1,42,111,"[""pcb4/Data/Images/Normal/0703.JPG""]",93.27,92.75,76.92906887816552,0
+PromptAD,VisA,pcb4,1,2026,111,"[""pcb4/Data/Images/Normal/0653.JPG""]",94.11,92.04,77.81788082234341,0
+PromptAD,VisA,pcb4,1,123,111,"[""pcb4/Data/Images/Normal/0513.JPG""]",96.18,92.66,76.79782076021566,0
+PromptAD,VisA,pcb4,1,2024,111,"[""pcb4/Data/Images/Normal/0021.JPG""]",91.8,93.68,80.22266504886646,0
+PromptAD,VisA,cashew,2,3407,111,"[""cashew/Data/Images/Normal/112.JPG"", ""cashew/Data/Images/Normal/278.JPG""]",91.24,98.79,90.74630715494116,0
+PromptAD,VisA,cashew,2,42,111,"[""cashew/Data/Images/Normal/137.JPG"", ""cashew/Data/Images/Normal/297.JPG""]",91.88,98.7,86.6218572958392,0
+PromptAD,VisA,cashew,2,2026,111,"[""cashew/Data/Images/Normal/103.JPG"", ""cashew/Data/Images/Normal/053.JPG""]",91.92,98.46,90.11888300948885,0
+PromptAD,VisA,cashew,2,123,111,"[""cashew/Data/Images/Normal/037.JPG"", ""cashew/Data/Images/Normal/399.JPG""]",91.8,98.87,91.75363564656577,0
+PromptAD,VisA,cashew,2,2024,111,"[""cashew/Data/Images/Normal/483.JPG"", ""cashew/Data/Images/Normal/075.JPG""]",93.16,98.99,91.31258789552085,0
+PromptAD,VisA,cashew,4,3407,111,"[""cashew/Data/Images/Normal/112.JPG"", ""cashew/Data/Images/Normal/278.JPG"", ""cashew/Data/Images/Normal/361.JPG"", ""cashew/Data/Images/Normal/236.JPG""]",89.78,98.84,91.25874908841267,0
+PromptAD,VisA,cashew,4,42,111,"[""cashew/Data/Images/Normal/137.JPG"", ""cashew/Data/Images/Normal/297.JPG"", ""cashew/Data/Images/Normal/305.JPG"", ""cashew/Data/Images/Normal/311.JPG""]",90.9,98.88,90.90514024469054,0
+PromptAD,VisA,cashew,4,2026,111,"[""cashew/Data/Images/Normal/103.JPG"", ""cashew/Data/Images/Normal/053.JPG"", ""cashew/Data/Images/Normal/238.JPG"", ""cashew/Data/Images/Normal/340.JPG""]",92.34,98.78,91.10253352189184,0
+PromptAD,VisA,cashew,4,123,111,"[""cashew/Data/Images/Normal/037.JPG"", ""cashew/Data/Images/Normal/399.JPG"", ""cashew/Data/Images/Normal/329.JPG"", ""cashew/Data/Images/Normal/163.JPG""]",91.8,98.61,90.61469683713912,0
+PromptAD,VisA,cashew,4,2024,111,"[""cashew/Data/Images/Normal/483.JPG"", ""cashew/Data/Images/Normal/075.JPG"", ""cashew/Data/Images/Normal/465.JPG"", ""cashew/Data/Images/Normal/439.JPG""]",90.64,98.79,91.7380641486195,0
+PromptAD,VisA,candle,2,3407,111,"[""candle/Data/Images/Normal/0475.JPG"", ""candle/Data/Images/Normal/0042.JPG""]",82.71,92.22,87.69647642611646,0
+PromptAD,VisA,candle,2,42,111,"[""candle/Data/Images/Normal/0233.JPG"", ""candle/Data/Images/Normal/0761.JPG""]",76.97,92.96,88.18136063159166,0
+PromptAD,VisA,candle,2,2026,111,"[""candle/Data/Images/Normal/0271.JPG"", ""candle/Data/Images/Normal/0551.JPG""]",75.37,90.69,83.9933283633053,0
+PromptAD,VisA,candle,2,123,111,"[""candle/Data/Images/Normal/0397.JPG"", ""candle/Data/Images/Normal/0120.JPG""]",66.72,92.02,86.63941212126234,0
+PromptAD,VisA,candle,2,2024,111,"[""candle/Data/Images/Normal/0146.JPG"", ""candle/Data/Images/Normal/0613.JPG""]",81.64,92.36,87.50956228373279,0
+PromptAD,VisA,candle,4,3407,111,"[""candle/Data/Images/Normal/0475.JPG"", ""candle/Data/Images/Normal/0042.JPG"", ""candle/Data/Images/Normal/0874.JPG"", ""candle/Data/Images/Normal/0813.JPG""]",86.4,92.53,87.90939883318268,0
+PromptAD,VisA,candle,4,42,111,"[""candle/Data/Images/Normal/0233.JPG"", ""candle/Data/Images/Normal/0761.JPG"", ""candle/Data/Images/Normal/0433.JPG"", ""candle/Data/Images/Normal/0543.JPG""]",82.27,92.07,87.28133037578004,0
+PromptAD,VisA,candle,4,2026,111,"[""candle/Data/Images/Normal/0271.JPG"", ""candle/Data/Images/Normal/0551.JPG"", ""candle/Data/Images/Normal/0038.JPG"", ""candle/Data/Images/Normal/0148.JPG""]",78.45,92.39,87.24809650482912,0
+PromptAD,VisA,candle,4,123,111,"[""candle/Data/Images/Normal/0397.JPG"", ""candle/Data/Images/Normal/0120.JPG"", ""candle/Data/Images/Normal/0555.JPG"", ""candle/Data/Images/Normal/0653.JPG""]",80.07,92.29,87.07736693419447,0
+PromptAD,VisA,candle,4,2024,111,"[""candle/Data/Images/Normal/0146.JPG"", ""candle/Data/Images/Normal/0613.JPG"", ""candle/Data/Images/Normal/0091.JPG"", ""candle/Data/Images/Normal/0660.JPG""]",85.55,93.28,88.8735035567336,0
+PromptAD,VisA,capsules,2,3407,111,"[""capsules/Data/Images/Normal/149.JPG"", ""capsules/Data/Images/Normal/250.JPG""]",71.22,67.87,19.743064229608095,0
+PromptAD,VisA,capsules,2,42,111,"[""capsules/Data/Images/Normal/558.JPG"", ""capsules/Data/Images/Normal/401.JPG""]",73.18,67.81,20.69365943179065,0
+PromptAD,VisA,capsules,2,2026,111,"[""capsules/Data/Images/Normal/492.JPG"", ""capsules/Data/Images/Normal/537.JPG""]",71.4,60.77,16.108741905102878,0
+PromptAD,VisA,capsules,2,123,111,"[""capsules/Data/Images/Normal/438.JPG"", ""capsules/Data/Images/Normal/441.JPG""]",75.32,61.54,15.565480204595355,0
+PromptAD,VisA,capsules,2,2024,111,"[""capsules/Data/Images/Normal/053.JPG"", ""capsules/Data/Images/Normal/313.JPG""]",79.5,60.46,17.95305547081242,0
+PromptAD,VisA,capsules,4,3407,111,"[""capsules/Data/Images/Normal/149.JPG"", ""capsules/Data/Images/Normal/250.JPG"", ""capsules/Data/Images/Normal/452.JPG"", ""capsules/Data/Images/Normal/093.JPG""]",73.52,68.24,20.415094888244514,0
+PromptAD,VisA,capsules,4,42,111,"[""capsules/Data/Images/Normal/558.JPG"", ""capsules/Data/Images/Normal/401.JPG"", ""capsules/Data/Images/Normal/528.JPG"", ""capsules/Data/Images/Normal/263.JPG""]",72.22,63.44,18.421877320521478,0
+PromptAD,VisA,capsules,4,2026,111,"[""capsules/Data/Images/Normal/492.JPG"", ""capsules/Data/Images/Normal/537.JPG"", ""capsules/Data/Images/Normal/060.JPG"", ""capsules/Data/Images/Normal/217.JPG""]",71.55,65.36,18.445867257641822,0
+PromptAD,VisA,capsules,4,123,111,"[""capsules/Data/Images/Normal/438.JPG"", ""capsules/Data/Images/Normal/441.JPG"", ""capsules/Data/Images/Normal/006.JPG"", ""capsules/Data/Images/Normal/551.JPG""]",71.2,64.11,17.47578939347819,0
+PromptAD,VisA,capsules,4,2024,111,"[""capsules/Data/Images/Normal/053.JPG"", ""capsules/Data/Images/Normal/313.JPG"", ""capsules/Data/Images/Normal/022.JPG"", ""capsules/Data/Images/Normal/361.JPG""]",75.78,65.17,20.477035995075966,0
+PromptAD,VisA,pcb1,2,3407,111,"[""pcb1/Data/Images/Normal/0480.JPG"", ""pcb1/Data/Images/Normal/0319.JPG""]",88.15,93.12,86.11821511703266,0
+PromptAD,VisA,pcb1,2,42,111,"[""pcb1/Data/Images/Normal/0503.JPG"", ""pcb1/Data/Images/Normal/0918.JPG""]",87.7,91.67,87.23894936907863,0
+PromptAD,VisA,pcb1,2,2026,111,"[""pcb1/Data/Images/Normal/0667.JPG"", ""pcb1/Data/Images/Normal/0198.JPG""]",87.05,96.25,87.55868899648722,0
+PromptAD,VisA,pcb1,2,123,111,"[""pcb1/Data/Images/Normal/0313.JPG"", ""pcb1/Data/Images/Normal/0030.JPG""]",89.19,93.01,86.20032744230525,0
+PromptAD,VisA,pcb1,2,2024,111,"[""pcb1/Data/Images/Normal/0715.JPG"", ""pcb1/Data/Images/Normal/0450.JPG""]",77.91,94.37,87.17542919205628,0
+PromptAD,VisA,pcb1,4,3407,111,"[""pcb1/Data/Images/Normal/0480.JPG"", ""pcb1/Data/Images/Normal/0319.JPG"", ""pcb1/Data/Images/Normal/0723.JPG"", ""pcb1/Data/Images/Normal/0546.JPG""]",88.48,94.47,88.73364434987847,0
+PromptAD,VisA,pcb1,4,42,111,"[""pcb1/Data/Images/Normal/0503.JPG"", ""pcb1/Data/Images/Normal/0918.JPG"", ""pcb1/Data/Images/Normal/0123.JPG"", ""pcb1/Data/Images/Normal/0571.JPG""]",88.34,92.79,86.21678188679817,0
+PromptAD,VisA,pcb1,4,2026,111,"[""pcb1/Data/Images/Normal/0667.JPG"", ""pcb1/Data/Images/Normal/0198.JPG"", ""pcb1/Data/Images/Normal/0599.JPG"", ""pcb1/Data/Images/Normal/0266.JPG""]",88.9,95.77,88.9766526882382,0
+PromptAD,VisA,pcb1,4,123,111,"[""pcb1/Data/Images/Normal/0313.JPG"", ""pcb1/Data/Images/Normal/0030.JPG"", ""pcb1/Data/Images/Normal/0699.JPG"", ""pcb1/Data/Images/Normal/0345.JPG""]",88.56,94.18,88.93977923185193,0
+PromptAD,VisA,pcb1,4,2024,111,"[""pcb1/Data/Images/Normal/0715.JPG"", ""pcb1/Data/Images/Normal/0450.JPG"", ""pcb1/Data/Images/Normal/0886.JPG"", ""pcb1/Data/Images/Normal/0149.JPG""]",89.0,95.33,89.1315846118295,0
+PromptAD,VisA,macaroni1,2,3407,111,"[""macaroni1/Data/Images/Normal/0285.JPG"", ""macaroni1/Data/Images/Normal/0870.JPG""]",85.88,97.37,88.76044222369404,0
+PromptAD,VisA,macaroni1,2,42,111,"[""macaroni1/Data/Images/Normal/0450.JPG"", ""macaroni1/Data/Images/Normal/0191.JPG""]",86.45,97.94,89.34284588963146,0
+PromptAD,VisA,macaroni1,2,2026,111,"[""macaroni1/Data/Images/Normal/0513.JPG"", ""macaroni1/Data/Images/Normal/0434.JPG""]",86.23,97.64,91.05420766811608,0
+PromptAD,VisA,macaroni1,2,123,111,"[""macaroni1/Data/Images/Normal/0696.JPG"", ""macaroni1/Data/Images/Normal/0138.JPG""]",85.88,96.54,89.33176550690614,0
+PromptAD,VisA,macaroni1,2,2024,111,"[""macaroni1/Data/Images/Normal/0315.JPG"", ""macaroni1/Data/Images/Normal/0937.JPG""]",86.69,97.47,91.1476757417839,0
+PromptAD,VisA,macaroni1,4,3407,111,"[""macaroni1/Data/Images/Normal/0285.JPG"", ""macaroni1/Data/Images/Normal/0870.JPG"", ""macaroni1/Data/Images/Normal/0197.JPG"", ""macaroni1/Data/Images/Normal/0696.JPG""]",86.6,96.78,89.37170078250351,0
+PromptAD,VisA,macaroni1,4,42,111,"[""macaroni1/Data/Images/Normal/0450.JPG"", ""macaroni1/Data/Images/Normal/0191.JPG"", ""macaroni1/Data/Images/Normal/0686.JPG"", ""macaroni1/Data/Images/Normal/0339.JPG""]",85.24,97.99,90.62042755896871,0
+PromptAD,VisA,macaroni1,4,2026,111,"[""macaroni1/Data/Images/Normal/0513.JPG"", ""macaroni1/Data/Images/Normal/0434.JPG"", ""macaroni1/Data/Images/Normal/0441.JPG"", ""macaroni1/Data/Images/Normal/0543.JPG""]",85.93,97.59,90.82319122538034,0
+PromptAD,VisA,macaroni1,4,123,111,"[""macaroni1/Data/Images/Normal/0696.JPG"", ""macaroni1/Data/Images/Normal/0138.JPG"", ""macaroni1/Data/Images/Normal/0416.JPG"", ""macaroni1/Data/Images/Normal/0667.JPG""]",87.35,97.32,90.88239503014303,0
+PromptAD,VisA,macaroni1,4,2024,111,"[""macaroni1/Data/Images/Normal/0315.JPG"", ""macaroni1/Data/Images/Normal/0937.JPG"", ""macaroni1/Data/Images/Normal/0292.JPG"", ""macaroni1/Data/Images/Normal/0943.JPG""]",85.04,97.42,91.4048879815764,0
+PromptAD,VisA,pipe_fryum,2,3407,111,"[""pipe_fryum/Data/Images/Normal/095.JPG"", ""pipe_fryum/Data/Images/Normal/218.JPG""]",84.4,99.07,93.93171988916659,0
+PromptAD,VisA,pipe_fryum,2,42,111,"[""pipe_fryum/Data/Images/Normal/064.JPG"", ""pipe_fryum/Data/Images/Normal/434.JPG""]",87.88,98.83,94.68760847828004,0
+PromptAD,VisA,pipe_fryum,2,2026,111,"[""pipe_fryum/Data/Images/Normal/301.JPG"", ""pipe_fryum/Data/Images/Normal/330.JPG""]",84.66,98.86,94.0914359568458,0
+PromptAD,VisA,pipe_fryum,2,123,111,"[""pipe_fryum/Data/Images/Normal/293.JPG"", ""pipe_fryum/Data/Images/Normal/095.JPG""]",84.08,98.9,93.92382441498809,0
+PromptAD,VisA,pipe_fryum,2,2024,111,"[""pipe_fryum/Data/Images/Normal/045.JPG"", ""pipe_fryum/Data/Images/Normal/125.JPG""]",81.68,98.82,93.53158849379732,0
+PromptAD,VisA,pipe_fryum,4,3407,111,"[""pipe_fryum/Data/Images/Normal/095.JPG"", ""pipe_fryum/Data/Images/Normal/218.JPG"", ""pipe_fryum/Data/Images/Normal/225.JPG"", ""pipe_fryum/Data/Images/Normal/430.JPG""]",89.3,98.91,94.13471585888789,0
+PromptAD,VisA,pipe_fryum,4,42,111,"[""pipe_fryum/Data/Images/Normal/064.JPG"", ""pipe_fryum/Data/Images/Normal/434.JPG"", ""pipe_fryum/Data/Images/Normal/216.JPG"", ""pipe_fryum/Data/Images/Normal/378.JPG""]",88.3,98.82,94.3140560429169,0
+PromptAD,VisA,pipe_fryum,4,2026,111,"[""pipe_fryum/Data/Images/Normal/301.JPG"", ""pipe_fryum/Data/Images/Normal/330.JPG"", ""pipe_fryum/Data/Images/Normal/004.JPG"", ""pipe_fryum/Data/Images/Normal/163.JPG""]",87.66,98.77,94.57187260531751,0
+PromptAD,VisA,pipe_fryum,4,123,111,"[""pipe_fryum/Data/Images/Normal/293.JPG"", ""pipe_fryum/Data/Images/Normal/095.JPG"", ""pipe_fryum/Data/Images/Normal/455.JPG"", ""pipe_fryum/Data/Images/Normal/233.JPG""]",83.8,98.96,93.72924618821197,0
+PromptAD,VisA,pipe_fryum,4,2024,111,"[""pipe_fryum/Data/Images/Normal/045.JPG"", ""pipe_fryum/Data/Images/Normal/125.JPG"", ""pipe_fryum/Data/Images/Normal/429.JPG"", ""pipe_fryum/Data/Images/Normal/472.JPG""]",83.9,98.89,93.144628111715,0
+PromptAD,BTAD,01,1,3407,111,"[""01/train/ok/0331.bmp""]",88.82,84.36,41.53216328784576,0
+PromptAD,BTAD,01,1,42,111,"[""01/train/ok/0180.bmp""]",90.77,84.14,40.3496116489452,0
+PromptAD,BTAD,01,1,2026,111,"[""01/train/ok/0044.bmp""]",93.97,84.46,43.02315910372839,0
+PromptAD,BTAD,01,1,123,111,"[""01/train/ok/0293.bmp""]",90.57,82.67,38.00011396623405,0
+PromptAD,BTAD,01,1,2024,111,"[""01/train/ok/0289.bmp""]",90.77,81.62,35.22298666983737,0
+PromptAD,BTAD,02,1,3407,111,"[""02/train/ok/0243.png""]",82.03,94.26,51.745471642523455,0
+PromptAD,BTAD,02,1,42,111,"[""02/train/ok/0110.png""]",79.85,94.15,51.47641710699815,0
+PromptAD,BTAD,02,1,2026,111,"[""02/train/ok/0382.png""]",82.67,94.25,53.65654610639537,0
+PromptAD,BTAD,02,1,123,111,"[""02/train/ok/0016.png""]",81.18,93.71,52.15073086099735,0
+PromptAD,BTAD,02,1,2024,111,"[""02/train/ok/0392.png""]",79.88,94.67,52.42214375816854,0
+PromptAD,BTAD,03,1,3407,111,"[""03/train/ok/0685.bmp""]",94.61,98.3,94.65017864128946,0
+PromptAD,BTAD,03,1,42,111,"[""03/train/ok/0926.bmp""]",96.35,96.87,89.55415937245252,0
+PromptAD,BTAD,03,1,2026,111,"[""03/train/ok/0312.bmp""]",90.18,95.89,84.12707048305477,0
+PromptAD,BTAD,03,1,123,111,"[""03/train/ok/0188.bmp""]",94.03,97.23,91.98776917390694,0
+PromptAD,BTAD,03,1,2024,111,"[""03/train/ok/0592.bmp""]",91.26,96.98,87.42619818831352,0
+PromptAD,BTAD,01,2,3407,111,"[""01/train/ok/0331.bmp"", ""01/train/ok/0015.bmp""]",89.89,84.32,40.56269958997043,0
+PromptAD,BTAD,01,2,42,111,"[""01/train/ok/0180.bmp"", ""01/train/ok/0255.bmp""]",93.39,84.98,42.12725140214989,0
+PromptAD,BTAD,01,2,2026,111,"[""01/train/ok/0044.bmp"", ""01/train/ok/0277.bmp""]",92.71,85.66,43.59096721700173,0
+PromptAD,BTAD,01,2,123,111,"[""01/train/ok/0293.bmp"", ""01/train/ok/0286.bmp""]",90.96,82.11,36.30491560811924,0
+PromptAD,BTAD,01,2,2024,111,"[""01/train/ok/0289.bmp"", ""01/train/ok/0059.bmp""]",93.2,84.42,41.185536597482105,0
+PromptAD,BTAD,02,2,3407,111,"[""02/train/ok/0243.png"", ""02/train/ok/0211.png""]",82.03,94.58,52.97693039022753,0
+PromptAD,BTAD,02,2,42,111,"[""02/train/ok/0110.png"", ""02/train/ok/0394.png""]",82.73,94.55,51.66223472305559,0
+PromptAD,BTAD,02,2,2026,111,"[""02/train/ok/0382.png"", ""02/train/ok/0002.png""]",83.6,94.86,53.35627228035113,0
+PromptAD,BTAD,02,2,123,111,"[""02/train/ok/0016.png"", ""02/train/ok/0335.png""]",81.97,94.17,51.176248915918265,0
+PromptAD,BTAD,02,2,2024,111,"[""02/train/ok/0392.png"", ""02/train/ok/0389.png""]",81.77,94.39,52.51891086905177,0
+PromptAD,BTAD,03,2,3407,111,"[""03/train/ok/0685.bmp"", ""03/train/ok/0998.bmp""]",96.26,97.38,90.70976133068909,0
+PromptAD,BTAD,03,2,42,111,"[""03/train/ok/0926.bmp"", ""03/train/ok/0953.bmp""]",94.56,98.01,93.69862182697459,0
+PromptAD,BTAD,03,2,2026,111,"[""03/train/ok/0312.bmp"", ""03/train/ok/0551.bmp""]",93.81,96.46,87.83422823648539,0
+PromptAD,BTAD,03,2,123,111,"[""03/train/ok/0188.bmp"", ""03/train/ok/0537.bmp""]",90.86,95.87,86.97070120964024,0
+PromptAD,BTAD,03,2,2024,111,"[""03/train/ok/0592.bmp"", ""03/train/ok/0744.bmp""]",96.01,97.03,88.35442157527925,0
+PromptAD,BTAD,01,4,3407,111,"[""01/train/ok/0331.bmp"", ""01/train/ok/0015.bmp"", ""01/train/ok/0353.bmp"", ""01/train/ok/0341.bmp""]",91.55,83.7,38.72769248553363,0
+PromptAD,BTAD,01,4,42,111,"[""01/train/ok/0180.bmp"", ""01/train/ok/0255.bmp"", ""01/train/ok/0102.bmp"", ""01/train/ok/0299.bmp""]",92.42,84.4,40.955069651362024,0
+PromptAD,BTAD,01,4,2026,111,"[""01/train/ok/0044.bmp"", ""01/train/ok/0277.bmp"", ""01/train/ok/0139.bmp"", ""01/train/ok/0364.bmp""]",92.52,83.52,41.463015181907636,0
+PromptAD,BTAD,01,4,123,111,"[""01/train/ok/0293.bmp"", ""01/train/ok/0286.bmp"", ""01/train/ok/0105.bmp"", ""01/train/ok/0376.bmp""]",91.35,83.48,39.19725344251289,0
+PromptAD,BTAD,01,4,2024,111,"[""01/train/ok/0289.bmp"", ""01/train/ok/0059.bmp"", ""01/train/ok/0262.bmp"", ""01/train/ok/0361.bmp""]",93.68,84.4,41.8164542781811,0
+PromptAD,BTAD,02,4,3407,111,"[""02/train/ok/0243.png"", ""02/train/ok/0211.png"", ""02/train/ok/0042.png"", ""02/train/ok/0264.png""]",82.8,94.49,51.67464643438259,0
+PromptAD,BTAD,02,4,42,111,"[""02/train/ok/0110.png"", ""02/train/ok/0394.png"", ""02/train/ok/0175.png"", ""02/train/ok/0262.png""]",82.12,94.77,52.47166495507176,0
+PromptAD,BTAD,02,4,2026,111,"[""02/train/ok/0382.png"", ""02/train/ok/0002.png"", ""02/train/ok/0133.png"", ""02/train/ok/0357.png""]",83.22,94.46,54.24868873477086,0
+PromptAD,BTAD,02,4,123,111,"[""02/train/ok/0016.png"", ""02/train/ok/0335.png"", ""02/train/ok/0058.png"", ""02/train/ok/0213.png""]",82.8,94.12,51.99052813250999,0
+PromptAD,BTAD,02,4,2024,111,"[""02/train/ok/0392.png"", ""02/train/ok/0389.png"", ""02/train/ok/0077.png"", ""02/train/ok/0159.png""]",81.82,94.33,52.43125188562805,0
+PromptAD,BTAD,03,4,3407,111,"[""03/train/ok/0685.bmp"", ""03/train/ok/0998.bmp"", ""03/train/ok/0460.bmp"", ""03/train/ok/0512.bmp""]",97.15,97.58,92.74274276925503,0
+PromptAD,BTAD,03,4,42,111,"[""03/train/ok/0926.bmp"", ""03/train/ok/0953.bmp"", ""03/train/ok/0547.bmp"", ""03/train/ok/0980.bmp""]",93.01,97.29,89.59566894262547,0
+PromptAD,BTAD,03,4,2026,111,"[""03/train/ok/0312.bmp"", ""03/train/ok/0551.bmp"", ""03/train/ok/0692.bmp"", ""03/train/ok/0020.bmp""]",97.48,97.01,88.98971355806192,0
+PromptAD,BTAD,03,4,123,111,"[""03/train/ok/0188.bmp"", ""03/train/ok/0537.bmp"", ""03/train/ok/0339.bmp"", ""03/train/ok/0365.bmp""]",94.89,97.4,90.96575255170511,0
+PromptAD,BTAD,03,4,2024,111,"[""03/train/ok/0592.bmp"", ""03/train/ok/0744.bmp"", ""03/train/ok/0984.bmp"", ""03/train/ok/0359.bmp""]",97.19,97.06,89.90688939659461,0
+WinCLIP+,VisA,candle,1,3407,not trained,"[""candle/Data/Images/Normal/0475.JPG""]",96.42,95.88225299672258,94.61252933637573,0
+WinCLIP+,VisA,candle,1,42,not trained,"[""candle/Data/Images/Normal/0233.JPG""]",96.57,96.37246622338881,94.7693138866732,0
+WinCLIP+,VisA,candle,1,2026,not trained,"[""candle/Data/Images/Normal/0271.JPG""]",96.18999999999998,96.43945056472378,95.00593161085395,0
+WinCLIP+,VisA,candle,1,123,not trained,"[""candle/Data/Images/Normal/0397.JPG""]",96.22999999999999,96.16902954641337,94.49372610492713,0
+WinCLIP+,VisA,candle,1,2024,not trained,"[""candle/Data/Images/Normal/0146.JPG""]",96.89,95.74134996504469,94.74743011221742,0
+WinCLIP+,VisA,cashew,1,3407,not trained,"[""cashew/Data/Images/Normal/112.JPG""]",95.34,97.15306254099848,85.17333577116646,0
+WinCLIP+,VisA,cashew,1,42,not trained,"[""cashew/Data/Images/Normal/137.JPG""]",94.02,97.19377236704744,85.69377926048715,0
+WinCLIP+,VisA,cashew,1,2026,not trained,"[""cashew/Data/Images/Normal/103.JPG""]",94.38,96.58102755091565,86.31437063505487,0
+WinCLIP+,VisA,cashew,1,123,not trained,"[""cashew/Data/Images/Normal/037.JPG""]",93.9,96.97429953817242,82.93189008373707,0
+WinCLIP+,VisA,cashew,1,2024,not trained,"[""cashew/Data/Images/Normal/483.JPG""]",93.54,96.77772827228415,84.75231597481779,0
+WinCLIP+,VisA,pcb1,1,3407,not trained,"[""pcb1/Data/Images/Normal/0480.JPG""]",85.75,96.61015528999366,77.14261698250016,0
+WinCLIP+,VisA,pcb1,1,42,not trained,"[""pcb1/Data/Images/Normal/0503.JPG""]",86.07000000000001,96.29102605525462,77.75923934328677,0
+WinCLIP+,VisA,pcb1,1,2026,not trained,"[""pcb1/Data/Images/Normal/0667.JPG""]",46.78,96.24188352565439,64.06966588520872,0
+WinCLIP+,VisA,pcb1,1,123,not trained,"[""pcb1/Data/Images/Normal/0313.JPG""]",86.08,96.5219123328524,75.93481718610875,0
+WinCLIP+,VisA,pcb1,1,2024,not trained,"[""pcb1/Data/Images/Normal/0715.JPG""]",48.58,95.87510902235827,63.39669023820406,0
+WinCLIP+,VisA,capsules,1,3407,not trained,"[""capsules/Data/Images/Normal/149.JPG""]",81.71666666666667,94.98145262931054,55.84972753091226,0
+WinCLIP+,VisA,capsules,1,42,not trained,"[""capsules/Data/Images/Normal/558.JPG""]",82.16666666666666,95.92213520802126,58.98460503779796,0
+WinCLIP+,VisA,capsules,1,2026,not trained,"[""capsules/Data/Images/Normal/492.JPG""]",81.8,95.09567403371518,58.797305335710526,0
+WinCLIP+,VisA,capsules,1,123,not trained,"[""capsules/Data/Images/Normal/438.JPG""]",81.28333333333333,94.85223476246665,58.85206402290895,0
+WinCLIP+,VisA,capsules,1,2024,not trained,"[""capsules/Data/Images/Normal/053.JPG""]",82.05,95.84056462590966,61.368258951160314,0
+WinCLIP+,VisA,chewinggum,1,3407,not trained,"[""chewinggum/Data/Images/Normal/142.JPG""]",97.88,98.99838168339437,84.03465034548444,0
+WinCLIP+,VisA,chewinggum,1,42,not trained,"[""chewinggum/Data/Images/Normal/340.JPG""]",96.74000000000001,98.93929463236502,83.40743736367934,0
+WinCLIP+,VisA,chewinggum,1,2026,not trained,"[""chewinggum/Data/Images/Normal/150.JPG""]",97.36,99.02432439572802,84.60498748515258,0
+WinCLIP+,VisA,chewinggum,1,123,not trained,"[""chewinggum/Data/Images/Normal/484.JPG""]",97.56,98.98857929259704,83.44135888136098,0
+WinCLIP+,VisA,chewinggum,1,2024,not trained,"[""chewinggum/Data/Images/Normal/008.JPG""]",97.55999999999999,98.96020131572246,84.40911072879348,0
+WinCLIP+,VisA,fryum,1,3407,not trained,"[""fryum/Data/Images/Normal/253.JPG""]",88.25999999999999,94.4392956896653,85.81363199271536,0
+WinCLIP+,VisA,fryum,1,42,not trained,"[""fryum/Data/Images/Normal/160.JPG""]",89.10000000000001,95.27646227981171,86.4502824905333,0
+WinCLIP+,VisA,fryum,1,2026,not trained,"[""fryum/Data/Images/Normal/281.JPG""]",86.0,94.9335642460008,86.75225959513912,0
+WinCLIP+,VisA,fryum,1,123,not trained,"[""fryum/Data/Images/Normal/179.JPG""]",83.22,94.4512743334731,86.43783522545381,0
+WinCLIP+,VisA,fryum,1,2024,not trained,"[""fryum/Data/Images/Normal/422.JPG""]",89.12,94.27799093370545,85.77744364823079,0
+WinCLIP+,VisA,macaroni1,1,3407,not trained,"[""macaroni1/Data/Images/Normal/0285.JPG""]",86.86999999999999,94.00904998178558,67.2705814781222,0
+WinCLIP+,VisA,macaroni1,1,42,not trained,"[""macaroni1/Data/Images/Normal/0450.JPG""]",86.61999999999999,92.91200694474814,65.12930618815558,0
+WinCLIP+,VisA,macaroni1,1,2026,not trained,"[""macaroni1/Data/Images/Normal/0513.JPG""]",86.77,93.39906824540786,67.89780247845634,0
+WinCLIP+,VisA,macaroni1,1,123,not trained,"[""macaroni1/Data/Images/Normal/0696.JPG""]",85.2,93.4343848704958,67.83047039449774,0
+WinCLIP+,VisA,macaroni1,1,2024,not trained,"[""macaroni1/Data/Images/Normal/0315.JPG""]",88.38,93.72198359756054,69.0405999605481,0
+WinCLIP+,VisA,macaroni2,1,3407,not trained,"[""macaroni2/Data/Images/Normal/0204.JPG""]",71.17000000000002,91.08304014647688,60.670971849405596,0
+WinCLIP+,VisA,macaroni2,1,42,not trained,"[""macaroni2/Data/Images/Normal/0471.JPG""]",72.31499999999998,91.03584520291909,54.40345423096413,0
+WinCLIP+,VisA,macaroni2,1,2026,not trained,"[""macaroni2/Data/Images/Normal/0197.JPG""]",73.73,90.4753087560477,56.81495262309877,0
+WinCLIP+,VisA,macaroni2,1,123,not trained,"[""macaroni2/Data/Images/Normal/0815.JPG""]",76.53999999999999,91.25568586419925,64.78507160529207,0
+WinCLIP+,VisA,macaroni2,1,2024,not trained,"[""macaroni2/Data/Images/Normal/0586.JPG""]",73.77999999999999,89.92164228423681,56.9194375504008,0
+WinCLIP+,VisA,pcb2,1,3407,not trained,"[""pcb2/Data/Images/Normal/0757.JPG""]",55.06000000000001,90.55322303428656,62.84162686448786,0
+WinCLIP+,VisA,pcb2,1,42,not trained,"[""pcb2/Data/Images/Normal/0517.JPG""]",58.96,91.4304706972659,65.13819405483439,0
+WinCLIP+,VisA,pcb2,1,2026,not trained,"[""pcb2/Data/Images/Normal/0058.JPG""]",61.739999999999995,92.37577256052548,68.33376055319727,0
+WinCLIP+,VisA,pcb2,1,123,not trained,"[""pcb2/Data/Images/Normal/0428.JPG""]",60.45,93.10241608264886,71.46239294223828,0
+WinCLIP+,VisA,pcb2,1,2024,not trained,"[""pcb2/Data/Images/Normal/0066.JPG""]",55.06999999999999,92.46511275035422,66.19078575686356,0
+WinCLIP+,VisA,pcb3,1,3407,not trained,"[""pcb3/Data/Images/Normal/0097.JPG""]",68.04950495049505,93.70213607815771,75.80153252944855,0
+WinCLIP+,VisA,pcb3,1,42,not trained,"[""pcb3/Data/Images/Normal/0305.JPG""]",68.1881188118812,92.8267338425611,79.68324678176214,0
+WinCLIP+,VisA,pcb3,1,2026,not trained,"[""pcb3/Data/Images/Normal/0194.JPG""]",67.94059405940594,93.61321288386739,78.6579129193376,0
+WinCLIP+,VisA,pcb3,1,123,not trained,"[""pcb3/Data/Images/Normal/0219.JPG""]",68.74257425742574,93.69050086072944,80.25611262117825,0
+WinCLIP+,VisA,pcb3,1,2024,not trained,"[""pcb3/Data/Images/Normal/0278.JPG""]",63.693069306930695,92.73151675020603,74.89131572664155,0
+WinCLIP+,VisA,pcb4,1,3407,not trained,"[""pcb4/Data/Images/Normal/0452.JPG""]",68.93069306930693,95.75644718613839,84.36143805638221,0
+WinCLIP+,VisA,pcb4,1,42,not trained,"[""pcb4/Data/Images/Normal/0703.JPG""]",77.67326732673267,95.53794408877451,81.79536534554501,0
+WinCLIP+,VisA,pcb4,1,2026,not trained,"[""pcb4/Data/Images/Normal/0653.JPG""]",74.03960396039604,95.78100211489537,82.98775919191027,0
+WinCLIP+,VisA,pcb4,1,123,not trained,"[""pcb4/Data/Images/Normal/0513.JPG""]",86.9009900990099,95.8254813165204,82.66717142223644,0
+WinCLIP+,VisA,pcb4,1,2024,not trained,"[""pcb4/Data/Images/Normal/0021.JPG""]",77.92079207920793,95.68789841490303,82.28266446549661,0
+WinCLIP+,VisA,pipe_fryum,1,3407,not trained,"[""pipe_fryum/Data/Images/Normal/095.JPG""]",90.92,96.79982870538004,94.49439254007687,0
+WinCLIP+,VisA,pipe_fryum,1,42,not trained,"[""pipe_fryum/Data/Images/Normal/064.JPG""]",90.88000000000001,96.80987317282893,95.65223996989718,0
+WinCLIP+,VisA,pipe_fryum,1,2026,not trained,"[""pipe_fryum/Data/Images/Normal/301.JPG""]",92.02,96.37311417801556,95.36979403166687,0
+WinCLIP+,VisA,pipe_fryum,1,123,not trained,"[""pipe_fryum/Data/Images/Normal/293.JPG""]",91.69999999999999,96.66362865926997,94.55408712617192,0
+WinCLIP+,VisA,pipe_fryum,1,2024,not trained,"[""pipe_fryum/Data/Images/Normal/045.JPG""]",88.47999999999999,96.5389185335709,93.57247949125221,0
+WinCLIP+,VisA,candle,2,3407,not trained,"[""candle/Data/Images/Normal/0475.JPG"", ""candle/Data/Images/Normal/0042.JPG""]",96.39,96.24348793505806,94.55059660428796,0
+WinCLIP+,VisA,candle,2,42,not trained,"[""candle/Data/Images/Normal/0233.JPG"", ""candle/Data/Images/Normal/0761.JPG""]",96.09,96.38776322124322,95.08608308709047,0
+WinCLIP+,VisA,candle,2,2026,not trained,"[""candle/Data/Images/Normal/0271.JPG"", ""candle/Data/Images/Normal/0551.JPG""]",96.15,96.49961998691126,94.87269695260193,0
+WinCLIP+,VisA,candle,2,123,not trained,"[""candle/Data/Images/Normal/0397.JPG"", ""candle/Data/Images/Normal/0120.JPG""]",96.5,96.09975874136212,94.5527691494112,0
+WinCLIP+,VisA,candle,2,2024,not trained,"[""candle/Data/Images/Normal/0146.JPG"", ""candle/Data/Images/Normal/0613.JPG""]",96.52999999999999,96.08904835649213,94.91584767388429,0
+WinCLIP+,VisA,capsules,2,3407,not trained,"[""capsules/Data/Images/Normal/149.JPG"", ""capsules/Data/Images/Normal/250.JPG""]",82.46666666666667,95.57113400109853,60.30261886928334,0
+WinCLIP+,VisA,capsules,2,42,not trained,"[""capsules/Data/Images/Normal/558.JPG"", ""capsules/Data/Images/Normal/401.JPG""]",81.39999999999999,96.24832172736927,57.95754505432532,0
+WinCLIP+,VisA,capsules,2,2026,not trained,"[""capsules/Data/Images/Normal/492.JPG"", ""capsules/Data/Images/Normal/537.JPG""]",82.63333333333334,96.06461498041571,61.18051468016935,0
+WinCLIP+,VisA,capsules,2,123,not trained,"[""capsules/Data/Images/Normal/438.JPG"", ""capsules/Data/Images/Normal/441.JPG""]",81.98333333333335,95.76653808444506,60.20957593111179,0
+WinCLIP+,VisA,capsules,2,2024,not trained,"[""capsules/Data/Images/Normal/053.JPG"", ""capsules/Data/Images/Normal/313.JPG""]",84.48333333333332,96.09774599296891,63.08411644182288,0
+WinCLIP+,VisA,cashew,2,3407,not trained,"[""cashew/Data/Images/Normal/112.JPG"", ""cashew/Data/Images/Normal/278.JPG""]",95.56,97.208018251529,85.03593561477157,0
+WinCLIP+,VisA,cashew,2,42,not trained,"[""cashew/Data/Images/Normal/137.JPG"", ""cashew/Data/Images/Normal/297.JPG""]",93.8,97.36103347049949,84.4272222228185,0
+WinCLIP+,VisA,cashew,2,2026,not trained,"[""cashew/Data/Images/Normal/103.JPG"", ""cashew/Data/Images/Normal/053.JPG""]",94.64,96.86691198365283,86.00569841882671,0
+WinCLIP+,VisA,cashew,2,123,not trained,"[""cashew/Data/Images/Normal/037.JPG"", ""cashew/Data/Images/Normal/399.JPG""]",94.69999999999999,97.22102309445657,84.01227287345053,0
+WinCLIP+,VisA,cashew,2,2024,not trained,"[""cashew/Data/Images/Normal/483.JPG"", ""cashew/Data/Images/Normal/075.JPG""]",94.44000000000001,96.89842017287337,85.35068123658627,0
+WinCLIP+,VisA,macaroni1,2,3407,not trained,"[""macaroni1/Data/Images/Normal/0285.JPG"", ""macaroni1/Data/Images/Normal/0870.JPG""]",86.78,94.1158646376213,66.60843125157228,0
+WinCLIP+,VisA,macaroni1,2,42,not trained,"[""macaroni1/Data/Images/Normal/0450.JPG"", ""macaroni1/Data/Images/Normal/0191.JPG""]",88.67,93.99629687017362,67.84442163888548,0
+WinCLIP+,VisA,macaroni1,2,2026,not trained,"[""macaroni1/Data/Images/Normal/0513.JPG"", ""macaroni1/Data/Images/Normal/0434.JPG""]",86.82000000000001,93.51620667773092,69.33576800517247,0
+WinCLIP+,VisA,macaroni1,2,123,not trained,"[""macaroni1/Data/Images/Normal/0696.JPG"", ""macaroni1/Data/Images/Normal/0138.JPG""]",88.71,93.69891906647793,66.85346202966463,0
+WinCLIP+,VisA,macaroni1,2,2024,not trained,"[""macaroni1/Data/Images/Normal/0315.JPG"", ""macaroni1/Data/Images/Normal/0937.JPG""]",89.66000000000001,93.67416495451994,68.89336200177131,0
+WinCLIP+,VisA,pcb1,2,3407,not trained,"[""pcb1/Data/Images/Normal/0480.JPG"", ""pcb1/Data/Images/Normal/0319.JPG""]",86.38,96.61733267295718,77.00637491162564,0
+WinCLIP+,VisA,pcb1,2,42,not trained,"[""pcb1/Data/Images/Normal/0503.JPG"", ""pcb1/Data/Images/Normal/0918.JPG""]",86.47,96.32205141335658,78.13449875948083,0
+WinCLIP+,VisA,pcb1,2,2026,not trained,"[""pcb1/Data/Images/Normal/0667.JPG"", ""pcb1/Data/Images/Normal/0198.JPG""]",74.28999999999999,97.3214331409612,72.42966801613262,0
+WinCLIP+,VisA,pcb1,2,123,not trained,"[""pcb1/Data/Images/Normal/0313.JPG"", ""pcb1/Data/Images/Normal/0030.JPG""]",85.25,96.79625309924765,76.6620270159804,0
+WinCLIP+,VisA,pcb1,2,2024,not trained,"[""pcb1/Data/Images/Normal/0715.JPG"", ""pcb1/Data/Images/Normal/0450.JPG""]",85.28000000000002,97.30207579327862,72.09453217944854,0
+WinCLIP+,VisA,pipe_fryum,2,3407,not trained,"[""pipe_fryum/Data/Images/Normal/095.JPG"", ""pipe_fryum/Data/Images/Normal/218.JPG""]",91.97999999999999,96.76840107463013,94.43286361638236,0
+WinCLIP+,VisA,pipe_fryum,2,42,not trained,"[""pipe_fryum/Data/Images/Normal/064.JPG"", ""pipe_fryum/Data/Images/Normal/434.JPG""]",92.14,96.54736853767453,95.17069249442399,0
+WinCLIP+,VisA,pipe_fryum,2,2026,not trained,"[""pipe_fryum/Data/Images/Normal/301.JPG"", ""pipe_fryum/Data/Images/Normal/330.JPG""]",90.48,96.00999899842289,94.66737500452705,0
+WinCLIP+,VisA,pipe_fryum,2,123,not trained,"[""pipe_fryum/Data/Images/Normal/293.JPG"", ""pipe_fryum/Data/Images/Normal/095.JPG""]",91.74000000000001,96.86021093760772,94.60940224806453,0
+WinCLIP+,VisA,pipe_fryum,2,2024,not trained,"[""pipe_fryum/Data/Images/Normal/045.JPG"", ""pipe_fryum/Data/Images/Normal/125.JPG""]",91.34,97.0396659961008,94.7325703246316,0
+WinCLIP+,VisA,candle,4,3407,not trained,"[""candle/Data/Images/Normal/0475.JPG"", ""candle/Data/Images/Normal/0042.JPG"", ""candle/Data/Images/Normal/0874.JPG"", ""candle/Data/Images/Normal/0813.JPG""]",96.85,96.07402704698471,94.5448903576548,0
+WinCLIP+,VisA,candle,4,42,not trained,"[""candle/Data/Images/Normal/0233.JPG"", ""candle/Data/Images/Normal/0761.JPG"", ""candle/Data/Images/Normal/0433.JPG"", ""candle/Data/Images/Normal/0543.JPG""]",96.46000000000001,96.4759709042776,95.02615686573522,0
+WinCLIP+,VisA,candle,4,2026,not trained,"[""candle/Data/Images/Normal/0271.JPG"", ""candle/Data/Images/Normal/0551.JPG"", ""candle/Data/Images/Normal/0038.JPG"", ""candle/Data/Images/Normal/0148.JPG""]",96.21,96.47621004964465,94.79638634555482,0
+WinCLIP+,VisA,candle,4,123,not trained,"[""candle/Data/Images/Normal/0397.JPG"", ""candle/Data/Images/Normal/0120.JPG"", ""candle/Data/Images/Normal/0555.JPG"", ""candle/Data/Images/Normal/0653.JPG""]",96.52999999999999,96.44775210655735,94.83952813217158,0
+WinCLIP+,VisA,candle,4,2024,not trained,"[""candle/Data/Images/Normal/0146.JPG"", ""candle/Data/Images/Normal/0613.JPG"", ""candle/Data/Images/Normal/0091.JPG"", ""candle/Data/Images/Normal/0660.JPG""]",96.53,96.41899800436575,94.80909041307685,0
+WinCLIP+,VisA,capsules,4,3407,not trained,"[""capsules/Data/Images/Normal/149.JPG"", ""capsules/Data/Images/Normal/250.JPG"", ""capsules/Data/Images/Normal/452.JPG"", ""capsules/Data/Images/Normal/093.JPG""]",82.58333333333334,95.8149480443121,59.70231003703959,0
+WinCLIP+,VisA,capsules,4,42,not trained,"[""capsules/Data/Images/Normal/558.JPG"", ""capsules/Data/Images/Normal/401.JPG"", ""capsules/Data/Images/Normal/528.JPG"", ""capsules/Data/Images/Normal/263.JPG""]",80.25,96.16040532072596,56.749508932455896,0
+WinCLIP+,VisA,capsules,4,2026,not trained,"[""capsules/Data/Images/Normal/492.JPG"", ""capsules/Data/Images/Normal/537.JPG"", ""capsules/Data/Images/Normal/060.JPG"", ""capsules/Data/Images/Normal/217.JPG""]",82.71666666666667,96.30078268099791,61.59405063952866,0
+WinCLIP+,VisA,capsules,4,123,not trained,"[""capsules/Data/Images/Normal/438.JPG"", ""capsules/Data/Images/Normal/441.JPG"", ""capsules/Data/Images/Normal/006.JPG"", ""capsules/Data/Images/Normal/551.JPG""]",82.85,96.38101822633493,62.07249557482295,0
+WinCLIP+,VisA,capsules,4,2024,not trained,"[""capsules/Data/Images/Normal/053.JPG"", ""capsules/Data/Images/Normal/313.JPG"", ""capsules/Data/Images/Normal/022.JPG"", ""capsules/Data/Images/Normal/361.JPG""]",84.26666666666667,96.18130221488491,62.90688168633236,0
+WinCLIP+,VisA,cashew,4,3407,not trained,"[""cashew/Data/Images/Normal/112.JPG"", ""cashew/Data/Images/Normal/278.JPG"", ""cashew/Data/Images/Normal/361.JPG"", ""cashew/Data/Images/Normal/236.JPG""]",95.34,97.22475537814364,85.83721327185118,0
+WinCLIP+,VisA,cashew,4,42,not trained,"[""cashew/Data/Images/Normal/137.JPG"", ""cashew/Data/Images/Normal/297.JPG"", ""cashew/Data/Images/Normal/305.JPG"", ""cashew/Data/Images/Normal/311.JPG""]",95.36,97.27019076061201,84.66160027766534,0
+WinCLIP+,VisA,cashew,4,2026,not trained,"[""cashew/Data/Images/Normal/103.JPG"", ""cashew/Data/Images/Normal/053.JPG"", ""cashew/Data/Images/Normal/238.JPG"", ""cashew/Data/Images/Normal/340.JPG""]",95.44,96.99078957074164,86.46362022499281,0
+WinCLIP+,VisA,cashew,4,123,not trained,"[""cashew/Data/Images/Normal/037.JPG"", ""cashew/Data/Images/Normal/399.JPG"", ""cashew/Data/Images/Normal/329.JPG"", ""cashew/Data/Images/Normal/163.JPG""]",95.3,97.32796830431381,83.64580690751812,0
+WinCLIP+,VisA,cashew,4,2024,not trained,"[""cashew/Data/Images/Normal/483.JPG"", ""cashew/Data/Images/Normal/075.JPG"", ""cashew/Data/Images/Normal/465.JPG"", ""cashew/Data/Images/Normal/439.JPG""]",93.76,97.27925363522482,84.7042642573105,0
+WinCLIP+,VisA,macaroni1,4,3407,not trained,"[""macaroni1/Data/Images/Normal/0285.JPG"", ""macaroni1/Data/Images/Normal/0870.JPG"", ""macaroni1/Data/Images/Normal/0197.JPG"", ""macaroni1/Data/Images/Normal/0696.JPG""]",86.81,93.460687080215,65.20939034685453,0
+WinCLIP+,VisA,macaroni1,4,42,not trained,"[""macaroni1/Data/Images/Normal/0450.JPG"", ""macaroni1/Data/Images/Normal/0191.JPG"", ""macaroni1/Data/Images/Normal/0686.JPG"", ""macaroni1/Data/Images/Normal/0339.JPG""]",88.44999999999999,93.55110388681538,65.11778064387939,0
+WinCLIP+,VisA,macaroni1,4,2026,not trained,"[""macaroni1/Data/Images/Normal/0513.JPG"", ""macaroni1/Data/Images/Normal/0434.JPG"", ""macaroni1/Data/Images/Normal/0441.JPG"", ""macaroni1/Data/Images/Normal/0543.JPG""]",88.71,93.7462560897936,69.02984540443158,0
+WinCLIP+,VisA,macaroni1,4,123,not trained,"[""macaroni1/Data/Images/Normal/0696.JPG"", ""macaroni1/Data/Images/Normal/0138.JPG"", ""macaroni1/Data/Images/Normal/0416.JPG"", ""macaroni1/Data/Images/Normal/0667.JPG""]",89.99999999999999,94.37681000251409,69.21637528723346,0
+WinCLIP+,VisA,macaroni1,4,2024,not trained,"[""macaroni1/Data/Images/Normal/0315.JPG"", ""macaroni1/Data/Images/Normal/0937.JPG"", ""macaroni1/Data/Images/Normal/0292.JPG"", ""macaroni1/Data/Images/Normal/0943.JPG""]",90.03,93.13627678885908,68.64504507853184,0
+WinCLIP+,VisA,pcb1,4,3407,not trained,"[""pcb1/Data/Images/Normal/0480.JPG"", ""pcb1/Data/Images/Normal/0319.JPG"", ""pcb1/Data/Images/Normal/0723.JPG"", ""pcb1/Data/Images/Normal/0546.JPG""]",78.42,97.66647473414699,76.19221133008092,0
+WinCLIP+,VisA,pcb1,4,42,not trained,"[""pcb1/Data/Images/Normal/0503.JPG"", ""pcb1/Data/Images/Normal/0918.JPG"", ""pcb1/Data/Images/Normal/0123.JPG"", ""pcb1/Data/Images/Normal/0571.JPG""]",86.00000000000001,96.64228088163235,78.16628609379185,0
+WinCLIP+,VisA,pcb1,4,2026,not trained,"[""pcb1/Data/Images/Normal/0667.JPG"", ""pcb1/Data/Images/Normal/0198.JPG"", ""pcb1/Data/Images/Normal/0599.JPG"", ""pcb1/Data/Images/Normal/0266.JPG""]",90.41999999999999,97.75091820563578,75.39875130192345,0
+WinCLIP+,VisA,pcb1,4,123,not trained,"[""pcb1/Data/Images/Normal/0313.JPG"", ""pcb1/Data/Images/Normal/0030.JPG"", ""pcb1/Data/Images/Normal/0699.JPG"", ""pcb1/Data/Images/Normal/0345.JPG""]",80.27,97.82533164615614,76.1354990799538,0
+WinCLIP+,VisA,pcb1,4,2024,not trained,"[""pcb1/Data/Images/Normal/0715.JPG"", ""pcb1/Data/Images/Normal/0450.JPG"", ""pcb1/Data/Images/Normal/0886.JPG"", ""pcb1/Data/Images/Normal/0149.JPG""]",90.74,97.77427394077284,75.33352011405819,0
+WinCLIP+,VisA,pipe_fryum,4,3407,not trained,"[""pipe_fryum/Data/Images/Normal/095.JPG"", ""pipe_fryum/Data/Images/Normal/218.JPG"", ""pipe_fryum/Data/Images/Normal/225.JPG"", ""pipe_fryum/Data/Images/Normal/430.JPG""]",92.9,96.88430260866583,94.65096059189747,0
+WinCLIP+,VisA,pipe_fryum,4,42,not trained,"[""pipe_fryum/Data/Images/Normal/064.JPG"", ""pipe_fryum/Data/Images/Normal/434.JPG"", ""pipe_fryum/Data/Images/Normal/216.JPG"", ""pipe_fryum/Data/Images/Normal/378.JPG""]",91.42,96.80983991761812,94.67185307213778,0
+WinCLIP+,VisA,pipe_fryum,4,2026,not trained,"[""pipe_fryum/Data/Images/Normal/301.JPG"", ""pipe_fryum/Data/Images/Normal/330.JPG"", ""pipe_fryum/Data/Images/Normal/004.JPG"", ""pipe_fryum/Data/Images/Normal/163.JPG""]",91.97999999999999,96.52890648594597,94.72769889610771,0
+WinCLIP+,VisA,pipe_fryum,4,123,not trained,"[""pipe_fryum/Data/Images/Normal/293.JPG"", ""pipe_fryum/Data/Images/Normal/095.JPG"", ""pipe_fryum/Data/Images/Normal/455.JPG"", ""pipe_fryum/Data/Images/Normal/233.JPG""]",92.33999999999999,96.85248724632119,94.74712280506672,0
+WinCLIP+,VisA,pipe_fryum,4,2024,not trained,"[""pipe_fryum/Data/Images/Normal/045.JPG"", ""pipe_fryum/Data/Images/Normal/125.JPG"", ""pipe_fryum/Data/Images/Normal/429.JPG"", ""pipe_fryum/Data/Images/Normal/472.JPG""]",89.38000000000001,97.08934350149045,94.97002150138391,0
+PromptAD,VisA,candle,1,3407,222,"[""candle/Data/Images/Normal/0475.JPG""]",80.47,91.48,86.7210917662586,0
+PromptAD,VisA,candle,1,3407,333,"[""candle/Data/Images/Normal/0475.JPG""]",73.72,87.97,82.65341820798646,0
+PromptAD,VisA,candle,1,42,222,"[""candle/Data/Images/Normal/0233.JPG""]",58.95,90.08,85.78330334782396,0
+PromptAD,VisA,candle,1,42,333,"[""candle/Data/Images/Normal/0233.JPG""]",56.38,89.0,81.70113639401855,0
+PromptAD,VisA,candle,1,2026,222,"[""candle/Data/Images/Normal/0271.JPG""]",72.93,92.15,87.67268558717545,0
+PromptAD,VisA,candle,1,2026,333,"[""candle/Data/Images/Normal/0271.JPG""]",66.06,89.62,83.11895902936185,0
+PromptAD,VisA,candle,1,123,222,"[""candle/Data/Images/Normal/0397.JPG""]",51.94,91.45,86.27894532131708,0
+PromptAD,VisA,candle,1,123,333,"[""candle/Data/Images/Normal/0397.JPG""]",44.82,85.81,76.59541156393796,0
+PromptAD,VisA,candle,1,2024,222,"[""candle/Data/Images/Normal/0146.JPG""]",73.61,91.37,87.447368141829,0
+PromptAD,VisA,candle,1,2024,333,"[""candle/Data/Images/Normal/0146.JPG""]",60.64,89.47,84.98079008392811,0
+PromptAD,VisA,pcb1,1,3407,222,"[""pcb1/Data/Images/Normal/0480.JPG""]",82.48,92.89,85.20319220572999,0
+PromptAD,VisA,pcb1,1,3407,333,"[""pcb1/Data/Images/Normal/0480.JPG""]",88.12,90.3,84.11284176715131,0
+PromptAD,VisA,pcb1,1,42,222,"[""pcb1/Data/Images/Normal/0503.JPG""]",86.99,92.88,85.3184324373695,0
+PromptAD,VisA,pcb1,1,42,333,"[""pcb1/Data/Images/Normal/0503.JPG""]",86.6,91.99,86.09073645069148,0
+PromptAD,VisA,pcb1,1,2026,222,"[""pcb1/Data/Images/Normal/0667.JPG""]",36.88,93.09,82.3717186916174,0
+PromptAD,VisA,pcb1,1,2026,333,"[""pcb1/Data/Images/Normal/0667.JPG""]",47.61,88.15,79.27827902897884,0
+PromptAD,VisA,pcb1,1,123,222,"[""pcb1/Data/Images/Normal/0313.JPG""]",86.65,93.62,84.90658594607476,0
+PromptAD,VisA,pcb1,1,123,333,"[""pcb1/Data/Images/Normal/0313.JPG""]",85.52,92.1,86.91131356516965,0
+PromptAD,VisA,pcb1,1,2024,222,"[""pcb1/Data/Images/Normal/0715.JPG""]",45.64,93.09,78.16436385725834,0
+PromptAD,VisA,pcb1,1,2024,333,"[""pcb1/Data/Images/Normal/0715.JPG""]",49.77,91.47,79.76635439487998,0
+PromptAD,VisA,cashew,1,3407,222,"[""cashew/Data/Images/Normal/112.JPG""]",84.6,98.39,90.44872676286447,0
+PromptAD,VisA,cashew,1,3407,333,"[""cashew/Data/Images/Normal/112.JPG""]",82.62,98.61,88.97463586151258,0
+PromptAD,VisA,cashew,1,42,222,"[""cashew/Data/Images/Normal/137.JPG""]",91.28,98.57,90.29350561087297,0
+PromptAD,VisA,cashew,1,42,333,"[""cashew/Data/Images/Normal/137.JPG""]",88.7,98.73,88.98304626390393,0
+PromptAD,VisA,cashew,1,2026,222,"[""cashew/Data/Images/Normal/103.JPG""]",90.9,97.87,90.78151388328028,0
+PromptAD,VisA,cashew,1,2026,333,"[""cashew/Data/Images/Normal/103.JPG""]",86.62,98.25,89.423976703053,0
+PromptAD,VisA,cashew,1,123,222,"[""cashew/Data/Images/Normal/037.JPG""]",90.54,98.91,90.71776618176986,0
+PromptAD,VisA,cashew,1,123,333,"[""cashew/Data/Images/Normal/037.JPG""]",88.06,98.82,89.54512597807518,0
+PromptAD,VisA,cashew,1,2024,222,"[""cashew/Data/Images/Normal/483.JPG""]",91.64,98.68,89.9653646435426,0
+PromptAD,VisA,cashew,1,2024,333,"[""cashew/Data/Images/Normal/483.JPG""]",85.14,98.69,89.7533156177289,0

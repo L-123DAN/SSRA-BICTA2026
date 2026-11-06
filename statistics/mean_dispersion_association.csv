@@ -1,0 +1,13 @@
+detector,shot,metric,omitted_category,dispersion,n_categories,spearman_rho,inference
+PromptAD,1,I_AUROC,none,sd,12,-0.6363636363636364,descriptive association; no population p-value
+PromptAD,1,I_AUROC,none,range,12,-0.6363636363636364,descriptive association; no population p-value
+PromptAD,1,I_AUROC,candle,sd,11,-0.6818181818181818,descriptive association; no population p-value
+PromptAD,1,I_AUROC,candle,range,11,-0.6818181818181818,descriptive association; no population p-value
+PromptAD,1,I_AUROC,pcb1,sd,11,-0.6545454545454545,descriptive association; no population p-value
+PromptAD,1,I_AUROC,pcb1,range,11,-0.6545454545454545,descriptive association; no population p-value
+WinCLIP+,1,I_AUROC,none,sd,12,-0.7132867132867133,descriptive association; no population p-value
+WinCLIP+,1,I_AUROC,none,range,12,-0.6993006993006993,descriptive association; no population p-value
+WinCLIP+,1,I_AUROC,candle,sd,11,-0.6454545454545455,descriptive association; no population p-value
+WinCLIP+,1,I_AUROC,candle,range,11,-0.6272727272727273,descriptive association; no population p-value
+WinCLIP+,1,I_AUROC,pcb1,sd,11,-0.6818181818181818,descriptive association; no population p-value
+WinCLIP+,1,I_AUROC,pcb1,range,11,-0.6727272727272727,descriptive association; no population p-value

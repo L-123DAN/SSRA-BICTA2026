@@ -1,0 +1,2047 @@
+{
+  "created_at_utc": "2026-10-09T10:52:58.803920+00:00",
+  "source_frozen_csv_sha256": "ce087c1b4c8c9232672c2b104f19846cf33bbcaea4e3ec5ebddfd5c715db0dc6",
+  "protocol": "WinCLIP+ Anomalib 2.6.2, official e31 backbone, explicit normal supports, fixed VisA 1cls test split",
+  "tasks": [
+    {
+      "dataset": "VisA",
+      "category": "candle",
+      "shot": 1,
+      "support_seed": 3407,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed3407.json",
+      "support_paths": [
+        "candle/Data/Images/Normal/0475.JPG"
+      ],
+      "support_sha256": [
+        "ff42cac16e973d5ecbf403e404e969d264bbc27b5a63e44861c59801f583b885"
+      ],
+      "test_count": 200,
+      "pilot": true
+    },
+    {
+      "dataset": "VisA",
+      "category": "candle",
+      "shot": 1,
+      "support_seed": 42,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed42.json",
+      "support_paths": [
+        "candle/Data/Images/Normal/0233.JPG"
+      ],
+      "support_sha256": [
+        "d6be11f10f12279ae3bae3e61b85f541e219c74bb68dc004fd3bf388e22f04e9"
+      ],
+      "test_count": 200,
+      "pilot": true
+    },
+    {
+      "dataset": "VisA",
+      "category": "candle",
+      "shot": 1,
+      "support_seed": 2026,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed2026.json",
+      "support_paths": [
+        "candle/Data/Images/Normal/0271.JPG"
+      ],
+      "support_sha256": [
+        "833cb34d2d8386175610f4cea71c4cab06690032ac49726b6887379748aabb0d"
+      ],
+      "test_count": 200,
+      "pilot": true
+    },
+    {
+      "dataset": "VisA",
+      "category": "candle",
+      "shot": 1,
+      "support_seed": 123,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed123.json",
+      "support_paths": [
+        "candle/Data/Images/Normal/0397.JPG"
+      ],
+      "support_sha256": [
+        "6be3e7ec8c042859fbbc819f118388f3448dd2019570763d4e75cd522965db39"
+      ],
+      "test_count": 200,
+      "pilot": true
+    },
+    {
+      "dataset": "VisA",
+      "category": "candle",
+      "shot": 1,
+      "support_seed": 2024,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed2024.json",
+      "support_paths": [
+        "candle/Data/Images/Normal/0146.JPG"
+      ],
+      "support_sha256": [
+        "13efd9c328ef28de11b5190dde1dd04457b4f05d308e4d769d67ee12b4c24ce3"
+      ],
+      "test_count": 200,
+      "pilot": true
+    },
+    {
+      "dataset": "VisA",
+      "category": "cashew",
+      "shot": 1,
+      "support_seed": 3407,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed3407.json",
+      "support_paths": [
+        "cashew/Data/Images/Normal/112.JPG"
+      ],
+      "support_sha256": [
+        "0111e27a96c149626113522e9efbb86b7980bca0236a46e35afe9031f9bd8043"
+      ],
+      "test_count": 150,
+      "pilot": true
+    },
+    {
+      "dataset": "VisA",
+      "category": "cashew",
+      "shot": 1,
+      "support_seed": 42,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed42.json",
+      "support_paths": [
+        "cashew/Data/Images/Normal/137.JPG"
+      ],
+      "support_sha256": [
+        "8b0bc8a13d8fbf9e1bd73b5ef1d7edd662ffb06a96cb63eddf29a53259c7208c"
+      ],
+      "test_count": 150,
+      "pilot": true
+    },
+    {
+      "dataset": "VisA",
+      "category": "cashew",
+      "shot": 1,
+      "support_seed": 2026,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed2026.json",
+      "support_paths": [
+        "cashew/Data/Images/Normal/103.JPG"
+      ],
+      "support_sha256": [
+        "660e3f28d1096c81b3da1528d7c27281555999aba174e16bfc10779a63ac76af"
+      ],
+      "test_count": 150,
+      "pilot": true
+    },
+    {
+      "dataset": "VisA",
+      "category": "cashew",
+      "shot": 1,
+      "support_seed": 123,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed123.json",
+      "support_paths": [
+        "cashew/Data/Images/Normal/037.JPG"
+      ],
+      "support_sha256": [
+        "dcf8bd48cae28d15c66f7219a2646116c857c88a1ff16634d47968adc713d125"
+      ],
+      "test_count": 150,
+      "pilot": true
+    },
+    {
+      "dataset": "VisA",
+      "category": "cashew",
+      "shot": 1,
+      "support_seed": 2024,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed2024.json",
+      "support_paths": [
+        "cashew/Data/Images/Normal/483.JPG"
+      ],
+      "support_sha256": [
+        "c5ba772522a3c9eb6735b5a91f559bb9f93bca5ac554ac52df1ded63643aa53a"
+      ],
+      "test_count": 150,
+      "pilot": true
+    },
+    {
+      "dataset": "VisA",
+      "category": "pcb1",
+      "shot": 1,
+      "support_seed": 3407,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed3407.json",
+      "support_paths": [
+        "pcb1/Data/Images/Normal/0480.JPG"
+      ],
+      "support_sha256": [
+        "ce8523bbf6f3ba8e9908fd59255dfd1775b14d1eb323429c7b9c57ee4c0485a8"
+      ],
+      "test_count": 200,
+      "pilot": true
+    },
+    {
+      "dataset": "VisA",
+      "category": "pcb1",
+      "shot": 1,
+      "support_seed": 42,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed42.json",
+      "support_paths": [
+        "pcb1/Data/Images/Normal/0503.JPG"
+      ],
+      "support_sha256": [
+        "9a73b091f6a23c100bf45deb1c0cfe4b2136753439de48aa1f6bed81f6ff7dbb"
+      ],
+      "test_count": 200,
+      "pilot": true
+    },
+    {
+      "dataset": "VisA",
+      "category": "pcb1",
+      "shot": 1,
+      "support_seed": 2026,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed2026.json",
+      "support_paths": [
+        "pcb1/Data/Images/Normal/0667.JPG"
+      ],
+      "support_sha256": [
+        "734d394e1717fbca76e033dc8eb42e285d27c7feac9b7ae219fe9006fe475191"
+      ],
+      "test_count": 200,
+      "pilot": true
+    },
+    {
+      "dataset": "VisA",
+      "category": "pcb1",
+      "shot": 1,
+      "support_seed": 123,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed123.json",
+      "support_paths": [
+        "pcb1/Data/Images/Normal/0313.JPG"
+      ],
+      "support_sha256": [
+        "2d021926061b8d6c887a8c296b46efad8dd0b5a9a2baeef4abfd230121e3fe6d"
+      ],
+      "test_count": 200,
+      "pilot": true
+    },
+    {
+      "dataset": "VisA",
+      "category": "pcb1",
+      "shot": 1,
+      "support_seed": 2024,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed2024.json",
+      "support_paths": [
+        "pcb1/Data/Images/Normal/0715.JPG"
+      ],
+      "support_sha256": [
+        "1890464c4f002913e6f4f54b6260446b8074de87a26cf8e8bae2bb90d9d783e7"
+      ],
+      "test_count": 200,
+      "pilot": true
+    },
+    {
+      "dataset": "VisA",
+      "category": "capsules",
+      "shot": 1,
+      "support_seed": 3407,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed3407.json",
+      "support_paths": [
+        "capsules/Data/Images/Normal/149.JPG"
+      ],
+      "support_sha256": [
+        "4f98801599670a47c3a28ae7f9fe5a4033368a3fbc7489862345ffbaa1215b71"
+      ],
+      "test_count": 160,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "capsules",
+      "shot": 1,
+      "support_seed": 42,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed42.json",
+      "support_paths": [
+        "capsules/Data/Images/Normal/558.JPG"
+      ],
+      "support_sha256": [
+        "4cb296d29d3f8c4b2731cd845878d145e5fc1ce8d4b9036379a46f40f9601355"
+      ],
+      "test_count": 160,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "capsules",
+      "shot": 1,
+      "support_seed": 2026,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed2026.json",
+      "support_paths": [
+        "capsules/Data/Images/Normal/492.JPG"
+      ],
+      "support_sha256": [
+        "9968ada0a90bce9dbac839150f995c755fc679e8b6523bda5fc2ece2f7839b64"
+      ],
+      "test_count": 160,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "capsules",
+      "shot": 1,
+      "support_seed": 123,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed123.json",
+      "support_paths": [
+        "capsules/Data/Images/Normal/438.JPG"
+      ],
+      "support_sha256": [
+        "5848bde3ec03e3e1146153ed9d1058b3b4412efec8f9ab219c0935543923891c"
+      ],
+      "test_count": 160,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "capsules",
+      "shot": 1,
+      "support_seed": 2024,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed2024.json",
+      "support_paths": [
+        "capsules/Data/Images/Normal/053.JPG"
+      ],
+      "support_sha256": [
+        "f1f14696f62aa988625a27480f7b90a370014d4ca5ea7cf2e3e996c8ddb27bd3"
+      ],
+      "test_count": 160,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "chewinggum",
+      "shot": 1,
+      "support_seed": 3407,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed3407.json",
+      "support_paths": [
+        "chewinggum/Data/Images/Normal/142.JPG"
+      ],
+      "support_sha256": [
+        "59b14ddfadb2594103f05e0376f1ec5a8b84d2db8d951c7d8984c4e3072fe70b"
+      ],
+      "test_count": 150,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "chewinggum",
+      "shot": 1,
+      "support_seed": 42,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed42.json",
+      "support_paths": [
+        "chewinggum/Data/Images/Normal/340.JPG"
+      ],
+      "support_sha256": [
+        "16d723e86ffe2dc69a951bcefbb6273ed1c3d02c8bb6065e18d771dc4671e971"
+      ],
+      "test_count": 150,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "chewinggum",
+      "shot": 1,
+      "support_seed": 2026,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed2026.json",
+      "support_paths": [
+        "chewinggum/Data/Images/Normal/150.JPG"
+      ],
+      "support_sha256": [
+        "abe4c99465091184ec6fa055c74abc2b24cedf74e409b0b7820ccdd5c65dc342"
+      ],
+      "test_count": 150,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "chewinggum",
+      "shot": 1,
+      "support_seed": 123,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed123.json",
+      "support_paths": [
+        "chewinggum/Data/Images/Normal/484.JPG"
+      ],
+      "support_sha256": [
+        "dd35bb494bc91bab43d6f4ed744b64d7a07f078a89312f726b28ce011e5cb790"
+      ],
+      "test_count": 150,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "chewinggum",
+      "shot": 1,
+      "support_seed": 2024,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed2024.json",
+      "support_paths": [
+        "chewinggum/Data/Images/Normal/008.JPG"
+      ],
+      "support_sha256": [
+        "4f6d29c6917701f82c2eb6008b8d8dcbdc7bd4ee79b8fc9aceaab0e7288ad003"
+      ],
+      "test_count": 150,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "fryum",
+      "shot": 1,
+      "support_seed": 3407,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed3407.json",
+      "support_paths": [
+        "fryum/Data/Images/Normal/253.JPG"
+      ],
+      "support_sha256": [
+        "ed36a7a5f75c23ba95fc7d1a92bd05d56662c477657cffb4ced736408b0cd125"
+      ],
+      "test_count": 150,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "fryum",
+      "shot": 1,
+      "support_seed": 42,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed42.json",
+      "support_paths": [
+        "fryum/Data/Images/Normal/160.JPG"
+      ],
+      "support_sha256": [
+        "63ff3855098f1619146036d70ad5f253418283f8d791dada7931cf574b359e6c"
+      ],
+      "test_count": 150,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "fryum",
+      "shot": 1,
+      "support_seed": 2026,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed2026.json",
+      "support_paths": [
+        "fryum/Data/Images/Normal/281.JPG"
+      ],
+      "support_sha256": [
+        "ca2e604e7459d926faa13ff075fb8bc2b729958784d35a188159a3d64ac91d04"
+      ],
+      "test_count": 150,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "fryum",
+      "shot": 1,
+      "support_seed": 123,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed123.json",
+      "support_paths": [
+        "fryum/Data/Images/Normal/179.JPG"
+      ],
+      "support_sha256": [
+        "7541b6931ba7d4bb102ab0b8f4b4e9b465521caa32ae9b49fe18dbe7086d9f50"
+      ],
+      "test_count": 150,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "fryum",
+      "shot": 1,
+      "support_seed": 2024,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed2024.json",
+      "support_paths": [
+        "fryum/Data/Images/Normal/422.JPG"
+      ],
+      "support_sha256": [
+        "fc56fb73f32de51ffc10c4acb862aa2eb136545dd8e88acec0070266c3ef836f"
+      ],
+      "test_count": 150,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "macaroni1",
+      "shot": 1,
+      "support_seed": 3407,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed3407.json",
+      "support_paths": [
+        "macaroni1/Data/Images/Normal/0285.JPG"
+      ],
+      "support_sha256": [
+        "f5f27e666443fead8e1965883c21ec322db4943f37d406691b3d0b27b14a56f1"
+      ],
+      "test_count": 200,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "macaroni1",
+      "shot": 1,
+      "support_seed": 42,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed42.json",
+      "support_paths": [
+        "macaroni1/Data/Images/Normal/0450.JPG"
+      ],
+      "support_sha256": [
+        "ada94c30c5a7f68fad87d7340ffe50ffaec099cdff7bba73426bb30831d82731"
+      ],
+      "test_count": 200,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "macaroni1",
+      "shot": 1,
+      "support_seed": 2026,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed2026.json",
+      "support_paths": [
+        "macaroni1/Data/Images/Normal/0513.JPG"
+      ],
+      "support_sha256": [
+        "2bea44bed53f9f620c1599bf0666223a29e84968c69b4c353b15d4efe28a1648"
+      ],
+      "test_count": 200,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "macaroni1",
+      "shot": 1,
+      "support_seed": 123,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed123.json",
+      "support_paths": [
+        "macaroni1/Data/Images/Normal/0696.JPG"
+      ],
+      "support_sha256": [
+        "dff899869e84df171f5e104e73eeea1cb2a6c605b520eaee1b11a3eec5a272c1"
+      ],
+      "test_count": 200,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "macaroni1",
+      "shot": 1,
+      "support_seed": 2024,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed2024.json",
+      "support_paths": [
+        "macaroni1/Data/Images/Normal/0315.JPG"
+      ],
+      "support_sha256": [
+        "89c40276e106862fd8ec8cd37085c8c62fe73241e55ed7eea87a34598a4a2a18"
+      ],
+      "test_count": 200,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "macaroni2",
+      "shot": 1,
+      "support_seed": 3407,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed3407.json",
+      "support_paths": [
+        "macaroni2/Data/Images/Normal/0204.JPG"
+      ],
+      "support_sha256": [
+        "25a5e390c65733dd8c05c214dd2d3b1abd02e697f0f3efb60f76b58936163a4f"
+      ],
+      "test_count": 200,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "macaroni2",
+      "shot": 1,
+      "support_seed": 42,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed42.json",
+      "support_paths": [
+        "macaroni2/Data/Images/Normal/0471.JPG"
+      ],
+      "support_sha256": [
+        "a2ac12a8bef5babc65b84d0a47bfc6bc71163765103b54e06cace39e624337d7"
+      ],
+      "test_count": 200,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "macaroni2",
+      "shot": 1,
+      "support_seed": 2026,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed2026.json",
+      "support_paths": [
+        "macaroni2/Data/Images/Normal/0197.JPG"
+      ],
+      "support_sha256": [
+        "90e11b7c0bf35982ae21e9f48077a2afdd6adddce3cb424f1ddd7d822139e2e0"
+      ],
+      "test_count": 200,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "macaroni2",
+      "shot": 1,
+      "support_seed": 123,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed123.json",
+      "support_paths": [
+        "macaroni2/Data/Images/Normal/0815.JPG"
+      ],
+      "support_sha256": [
+        "128d2036717e124b071d1eb37591518e7395f8766cbcefe18c9665a342be0da5"
+      ],
+      "test_count": 200,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "macaroni2",
+      "shot": 1,
+      "support_seed": 2024,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed2024.json",
+      "support_paths": [
+        "macaroni2/Data/Images/Normal/0586.JPG"
+      ],
+      "support_sha256": [
+        "8801cab2f2b212c1b096fd1fe315b3517fd5039bc3a33608148592af0e48991b"
+      ],
+      "test_count": 200,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "pcb2",
+      "shot": 1,
+      "support_seed": 3407,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed3407.json",
+      "support_paths": [
+        "pcb2/Data/Images/Normal/0757.JPG"
+      ],
+      "support_sha256": [
+        "02bb5bd7b3329851598b1991cd0fe6cadf594aa9a7fd0786da0b17cec3298cdf"
+      ],
+      "test_count": 200,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "pcb2",
+      "shot": 1,
+      "support_seed": 42,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed42.json",
+      "support_paths": [
+        "pcb2/Data/Images/Normal/0517.JPG"
+      ],
+      "support_sha256": [
+        "89c1d60f4f8b481ee682678e634c6a9b942952f0f19cc6cb6957b3efea5620c3"
+      ],
+      "test_count": 200,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "pcb2",
+      "shot": 1,
+      "support_seed": 2026,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed2026.json",
+      "support_paths": [
+        "pcb2/Data/Images/Normal/0058.JPG"
+      ],
+      "support_sha256": [
+        "ff4bc677c7f423ad1fdb89b41d74240c741fdd59c65fc8a08987d2fc046a07b6"
+      ],
+      "test_count": 200,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "pcb2",
+      "shot": 1,
+      "support_seed": 123,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed123.json",
+      "support_paths": [
+        "pcb2/Data/Images/Normal/0428.JPG"
+      ],
+      "support_sha256": [
+        "e85548c6a14e3a51364599dc7d3771e7016b7ee7ffc1d9e1adcd99320628330a"
+      ],
+      "test_count": 200,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "pcb2",
+      "shot": 1,
+      "support_seed": 2024,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed2024.json",
+      "support_paths": [
+        "pcb2/Data/Images/Normal/0066.JPG"
+      ],
+      "support_sha256": [
+        "176fd54d26c635f20b5ed48071f73c41d56983fc4bff50686b0d0a40cb6fc8c2"
+      ],
+      "test_count": 200,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "pcb3",
+      "shot": 1,
+      "support_seed": 3407,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed3407.json",
+      "support_paths": [
+        "pcb3/Data/Images/Normal/0097.JPG"
+      ],
+      "support_sha256": [
+        "4e1e395d89a471918f8dda13c778d276695cdba729840e30ca3b4078d1bb8d15"
+      ],
+      "test_count": 201,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "pcb3",
+      "shot": 1,
+      "support_seed": 42,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed42.json",
+      "support_paths": [
+        "pcb3/Data/Images/Normal/0305.JPG"
+      ],
+      "support_sha256": [
+        "0d69c5f4f0564e3ce8947c535fb62d100f41d9786bb5b215f70bc8aa98cb7ac5"
+      ],
+      "test_count": 201,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "pcb3",
+      "shot": 1,
+      "support_seed": 2026,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed2026.json",
+      "support_paths": [
+        "pcb3/Data/Images/Normal/0194.JPG"
+      ],
+      "support_sha256": [
+        "46646f2f8a84641d32e34f34b32b62458f8dafe4a37812dfb1ef0473c222abdd"
+      ],
+      "test_count": 201,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "pcb3",
+      "shot": 1,
+      "support_seed": 123,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed123.json",
+      "support_paths": [
+        "pcb3/Data/Images/Normal/0219.JPG"
+      ],
+      "support_sha256": [
+        "e34a23e9089150e6c938fab69f1df22406d00d02c7acc45f9f4430f5bad84956"
+      ],
+      "test_count": 201,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "pcb3",
+      "shot": 1,
+      "support_seed": 2024,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed2024.json",
+      "support_paths": [
+        "pcb3/Data/Images/Normal/0278.JPG"
+      ],
+      "support_sha256": [
+        "71e47f72c6ca13d849b7e5f9ad92dda4f31ee0c7d0e6a96182388aa41e9bf0e4"
+      ],
+      "test_count": 201,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "pcb4",
+      "shot": 1,
+      "support_seed": 3407,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed3407.json",
+      "support_paths": [
+        "pcb4/Data/Images/Normal/0452.JPG"
+      ],
+      "support_sha256": [
+        "50d5205eef95d4e6c84779889a0128bdd693c09d1302508f7b82396f4720ee03"
+      ],
+      "test_count": 201,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "pcb4",
+      "shot": 1,
+      "support_seed": 42,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed42.json",
+      "support_paths": [
+        "pcb4/Data/Images/Normal/0703.JPG"
+      ],
+      "support_sha256": [
+        "c2bfaae323a76f8dfe304e52836af0a0207cc3ffa6e1d0db58422a4d8b7f09a8"
+      ],
+      "test_count": 201,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "pcb4",
+      "shot": 1,
+      "support_seed": 2026,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed2026.json",
+      "support_paths": [
+        "pcb4/Data/Images/Normal/0653.JPG"
+      ],
+      "support_sha256": [
+        "72109a6d465fc1f8c3fbfa659df511142d5ee496c05243dedd80ccec39be29e1"
+      ],
+      "test_count": 201,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "pcb4",
+      "shot": 1,
+      "support_seed": 123,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed123.json",
+      "support_paths": [
+        "pcb4/Data/Images/Normal/0513.JPG"
+      ],
+      "support_sha256": [
+        "7006d2013ca4f271068bb3a00aa14ff0f3ab36614239efb774cbc3ff2711bc2d"
+      ],
+      "test_count": 201,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "pcb4",
+      "shot": 1,
+      "support_seed": 2024,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed2024.json",
+      "support_paths": [
+        "pcb4/Data/Images/Normal/0021.JPG"
+      ],
+      "support_sha256": [
+        "0961faf25c4771c02ce14f38e9aa5824084ee73dd6312e3c8071ddef4a6fd42b"
+      ],
+      "test_count": 201,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "pipe_fryum",
+      "shot": 1,
+      "support_seed": 3407,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed3407.json",
+      "support_paths": [
+        "pipe_fryum/Data/Images/Normal/095.JPG"
+      ],
+      "support_sha256": [
+        "e3f8ccfd909a536181e05348d44e76ae56b2c06026b666c96babb963f3081e0a"
+      ],
+      "test_count": 150,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "pipe_fryum",
+      "shot": 1,
+      "support_seed": 42,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed42.json",
+      "support_paths": [
+        "pipe_fryum/Data/Images/Normal/064.JPG"
+      ],
+      "support_sha256": [
+        "197324ea8557c279af9fccd9fee7cb9bb69d10a4a57edf53a509cf424555e3a8"
+      ],
+      "test_count": 150,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "pipe_fryum",
+      "shot": 1,
+      "support_seed": 2026,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed2026.json",
+      "support_paths": [
+        "pipe_fryum/Data/Images/Normal/301.JPG"
+      ],
+      "support_sha256": [
+        "03d12679a40b7bebb4663c40f8836003d7a54c5e8514eee20457642af8472928"
+      ],
+      "test_count": 150,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "pipe_fryum",
+      "shot": 1,
+      "support_seed": 123,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed123.json",
+      "support_paths": [
+        "pipe_fryum/Data/Images/Normal/293.JPG"
+      ],
+      "support_sha256": [
+        "270900df37a6550b8c8626d81dbb3f832ef2d1063234d3cb1fbd6a111dc01d0f"
+      ],
+      "test_count": 150,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "pipe_fryum",
+      "shot": 1,
+      "support_seed": 2024,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot1_supportseed2024.json",
+      "support_paths": [
+        "pipe_fryum/Data/Images/Normal/045.JPG"
+      ],
+      "support_sha256": [
+        "a838b3a1bb5a909952f638bed643a23d397ff3ae80d06b0e9f9118b4e0bbabb3"
+      ],
+      "test_count": 150,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "candle",
+      "shot": 2,
+      "support_seed": 3407,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot2_supportseed3407.json",
+      "support_paths": [
+        "candle/Data/Images/Normal/0475.JPG",
+        "candle/Data/Images/Normal/0042.JPG"
+      ],
+      "support_sha256": [
+        "ff42cac16e973d5ecbf403e404e969d264bbc27b5a63e44861c59801f583b885",
+        "c57cc317f04bd83c2899287bf48c43f29c6c13a3cf3317780df2505ffff4b32d"
+      ],
+      "test_count": 200,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "candle",
+      "shot": 2,
+      "support_seed": 42,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot2_supportseed42.json",
+      "support_paths": [
+        "candle/Data/Images/Normal/0233.JPG",
+        "candle/Data/Images/Normal/0761.JPG"
+      ],
+      "support_sha256": [
+        "d6be11f10f12279ae3bae3e61b85f541e219c74bb68dc004fd3bf388e22f04e9",
+        "b0a4325bcc1c53e8e8a71943cf6d7fcf59003d743d4d37b875e5676a2de9c0c9"
+      ],
+      "test_count": 200,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "candle",
+      "shot": 2,
+      "support_seed": 2026,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot2_supportseed2026.json",
+      "support_paths": [
+        "candle/Data/Images/Normal/0271.JPG",
+        "candle/Data/Images/Normal/0551.JPG"
+      ],
+      "support_sha256": [
+        "833cb34d2d8386175610f4cea71c4cab06690032ac49726b6887379748aabb0d",
+        "d7c4b84284d014cbe4fac60ee8638a4ebd986dc63bb63293cfcbd556329caa02"
+      ],
+      "test_count": 200,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "candle",
+      "shot": 2,
+      "support_seed": 123,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot2_supportseed123.json",
+      "support_paths": [
+        "candle/Data/Images/Normal/0397.JPG",
+        "candle/Data/Images/Normal/0120.JPG"
+      ],
+      "support_sha256": [
+        "6be3e7ec8c042859fbbc819f118388f3448dd2019570763d4e75cd522965db39",
+        "685b145f1f92e97c2bc7b1ca00b1f15100479db23f2dcb34e1e8b38a713c6b65"
+      ],
+      "test_count": 200,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "candle",
+      "shot": 2,
+      "support_seed": 2024,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot2_supportseed2024.json",
+      "support_paths": [
+        "candle/Data/Images/Normal/0146.JPG",
+        "candle/Data/Images/Normal/0613.JPG"
+      ],
+      "support_sha256": [
+        "13efd9c328ef28de11b5190dde1dd04457b4f05d308e4d769d67ee12b4c24ce3",
+        "002f867d19f69bedb36ba7f0afce920300559c71cd92866a515d200ba24f4eff"
+      ],
+      "test_count": 200,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "capsules",
+      "shot": 2,
+      "support_seed": 3407,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot2_supportseed3407.json",
+      "support_paths": [
+        "capsules/Data/Images/Normal/149.JPG",
+        "capsules/Data/Images/Normal/250.JPG"
+      ],
+      "support_sha256": [
+        "4f98801599670a47c3a28ae7f9fe5a4033368a3fbc7489862345ffbaa1215b71",
+        "131d6fd9f056e59a08a2b4594b95030502d7d89c6e8aa512372da2b1e9a4efab"
+      ],
+      "test_count": 160,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "capsules",
+      "shot": 2,
+      "support_seed": 42,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot2_supportseed42.json",
+      "support_paths": [
+        "capsules/Data/Images/Normal/558.JPG",
+        "capsules/Data/Images/Normal/401.JPG"
+      ],
+      "support_sha256": [
+        "4cb296d29d3f8c4b2731cd845878d145e5fc1ce8d4b9036379a46f40f9601355",
+        "d0af4df3c8b6241bbf37202cb634aa66e2e0c49a8d4fa7f7b8022689402f5fef"
+      ],
+      "test_count": 160,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "capsules",
+      "shot": 2,
+      "support_seed": 2026,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot2_supportseed2026.json",
+      "support_paths": [
+        "capsules/Data/Images/Normal/492.JPG",
+        "capsules/Data/Images/Normal/537.JPG"
+      ],
+      "support_sha256": [
+        "9968ada0a90bce9dbac839150f995c755fc679e8b6523bda5fc2ece2f7839b64",
+        "ca236c216e8d966cccbca29b964dfe12370cbe7b7262c89306ee6405ab0c1895"
+      ],
+      "test_count": 160,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "capsules",
+      "shot": 2,
+      "support_seed": 123,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot2_supportseed123.json",
+      "support_paths": [
+        "capsules/Data/Images/Normal/438.JPG",
+        "capsules/Data/Images/Normal/441.JPG"
+      ],
+      "support_sha256": [
+        "5848bde3ec03e3e1146153ed9d1058b3b4412efec8f9ab219c0935543923891c",
+        "12113008ba45eebb2ffd45b369cbd690c7f91ed4531bd99034737834ade89ab7"
+      ],
+      "test_count": 160,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "capsules",
+      "shot": 2,
+      "support_seed": 2024,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot2_supportseed2024.json",
+      "support_paths": [
+        "capsules/Data/Images/Normal/053.JPG",
+        "capsules/Data/Images/Normal/313.JPG"
+      ],
+      "support_sha256": [
+        "f1f14696f62aa988625a27480f7b90a370014d4ca5ea7cf2e3e996c8ddb27bd3",
+        "409542f12426fabb0e185945b13062d5ae2fb8ecc24d2fb1ee6785ad6b8e0011"
+      ],
+      "test_count": 160,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "cashew",
+      "shot": 2,
+      "support_seed": 3407,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot2_supportseed3407.json",
+      "support_paths": [
+        "cashew/Data/Images/Normal/112.JPG",
+        "cashew/Data/Images/Normal/278.JPG"
+      ],
+      "support_sha256": [
+        "0111e27a96c149626113522e9efbb86b7980bca0236a46e35afe9031f9bd8043",
+        "c1ea8071676497a64c6701bee52cb1e9809ca4412bb590130ece7e5c991d9e10"
+      ],
+      "test_count": 150,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "cashew",
+      "shot": 2,
+      "support_seed": 42,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot2_supportseed42.json",
+      "support_paths": [
+        "cashew/Data/Images/Normal/137.JPG",
+        "cashew/Data/Images/Normal/297.JPG"
+      ],
+      "support_sha256": [
+        "8b0bc8a13d8fbf9e1bd73b5ef1d7edd662ffb06a96cb63eddf29a53259c7208c",
+        "038c5a2d2e6a6b0fe0a96c15054912d93c8e258242b7cdbf4061cd5cd7896a2c"
+      ],
+      "test_count": 150,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "cashew",
+      "shot": 2,
+      "support_seed": 2026,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot2_supportseed2026.json",
+      "support_paths": [
+        "cashew/Data/Images/Normal/103.JPG",
+        "cashew/Data/Images/Normal/053.JPG"
+      ],
+      "support_sha256": [
+        "660e3f28d1096c81b3da1528d7c27281555999aba174e16bfc10779a63ac76af",
+        "2a861ec418b22563c388a209ee1e61f8fcfff724ce57d01d0d624055b7a344f5"
+      ],
+      "test_count": 150,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "cashew",
+      "shot": 2,
+      "support_seed": 123,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot2_supportseed123.json",
+      "support_paths": [
+        "cashew/Data/Images/Normal/037.JPG",
+        "cashew/Data/Images/Normal/399.JPG"
+      ],
+      "support_sha256": [
+        "dcf8bd48cae28d15c66f7219a2646116c857c88a1ff16634d47968adc713d125",
+        "59714b6c1ca31b5b782109cc1342b588db6c681c090205320cc963e8b9f42b49"
+      ],
+      "test_count": 150,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "cashew",
+      "shot": 2,
+      "support_seed": 2024,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot2_supportseed2024.json",
+      "support_paths": [
+        "cashew/Data/Images/Normal/483.JPG",
+        "cashew/Data/Images/Normal/075.JPG"
+      ],
+      "support_sha256": [
+        "c5ba772522a3c9eb6735b5a91f559bb9f93bca5ac554ac52df1ded63643aa53a",
+        "e0872111a05c2dd50ca4e0672a20429fc689ba6511a1c62d4c04774fa3a834d8"
+      ],
+      "test_count": 150,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "macaroni1",
+      "shot": 2,
+      "support_seed": 3407,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot2_supportseed3407.json",
+      "support_paths": [
+        "macaroni1/Data/Images/Normal/0285.JPG",
+        "macaroni1/Data/Images/Normal/0870.JPG"
+      ],
+      "support_sha256": [
+        "f5f27e666443fead8e1965883c21ec322db4943f37d406691b3d0b27b14a56f1",
+        "d29494d5126017ece0aa62d92d749860c6c5bede59bccf5a88ee29f215126e8c"
+      ],
+      "test_count": 200,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "macaroni1",
+      "shot": 2,
+      "support_seed": 42,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot2_supportseed42.json",
+      "support_paths": [
+        "macaroni1/Data/Images/Normal/0450.JPG",
+        "macaroni1/Data/Images/Normal/0191.JPG"
+      ],
+      "support_sha256": [
+        "ada94c30c5a7f68fad87d7340ffe50ffaec099cdff7bba73426bb30831d82731",
+        "a64ef2accf298b12f5f91392b9a3e4069378fbec306ca9102be821198013d179"
+      ],
+      "test_count": 200,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "macaroni1",
+      "shot": 2,
+      "support_seed": 2026,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot2_supportseed2026.json",
+      "support_paths": [
+        "macaroni1/Data/Images/Normal/0513.JPG",
+        "macaroni1/Data/Images/Normal/0434.JPG"
+      ],
+      "support_sha256": [
+        "2bea44bed53f9f620c1599bf0666223a29e84968c69b4c353b15d4efe28a1648",
+        "117da318ce08e1a58a4e3865daf24bfdb0fc8732b23d047ba1c8af3fc13814dc"
+      ],
+      "test_count": 200,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "macaroni1",
+      "shot": 2,
+      "support_seed": 123,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot2_supportseed123.json",
+      "support_paths": [
+        "macaroni1/Data/Images/Normal/0696.JPG",
+        "macaroni1/Data/Images/Normal/0138.JPG"
+      ],
+      "support_sha256": [
+        "dff899869e84df171f5e104e73eeea1cb2a6c605b520eaee1b11a3eec5a272c1",
+        "8d2b160c478d3fc50b2b1b7b5b36990c04daea283d45e449d9cf70ed5bccd7e9"
+      ],
+      "test_count": 200,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "macaroni1",
+      "shot": 2,
+      "support_seed": 2024,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot2_supportseed2024.json",
+      "support_paths": [
+        "macaroni1/Data/Images/Normal/0315.JPG",
+        "macaroni1/Data/Images/Normal/0937.JPG"
+      ],
+      "support_sha256": [
+        "89c40276e106862fd8ec8cd37085c8c62fe73241e55ed7eea87a34598a4a2a18",
+        "053999326f692ee3954721ab7a2568029de892af8a81093d8607b6b5083aec94"
+      ],
+      "test_count": 200,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "pcb1",
+      "shot": 2,
+      "support_seed": 3407,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot2_supportseed3407.json",
+      "support_paths": [
+        "pcb1/Data/Images/Normal/0480.JPG",
+        "pcb1/Data/Images/Normal/0319.JPG"
+      ],
+      "support_sha256": [
+        "ce8523bbf6f3ba8e9908fd59255dfd1775b14d1eb323429c7b9c57ee4c0485a8",
+        "bee65976e5fc24beae55c47782916209b8dfe8e5aed6c9f8d73f9748ac9967bd"
+      ],
+      "test_count": 200,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "pcb1",
+      "shot": 2,
+      "support_seed": 42,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot2_supportseed42.json",
+      "support_paths": [
+        "pcb1/Data/Images/Normal/0503.JPG",
+        "pcb1/Data/Images/Normal/0918.JPG"
+      ],
+      "support_sha256": [
+        "9a73b091f6a23c100bf45deb1c0cfe4b2136753439de48aa1f6bed81f6ff7dbb",
+        "ffaa6bb1f99e963b10201b9ecb0609302b52d19317a833d562d7d9ca94a9cf7b"
+      ],
+      "test_count": 200,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "pcb1",
+      "shot": 2,
+      "support_seed": 2026,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot2_supportseed2026.json",
+      "support_paths": [
+        "pcb1/Data/Images/Normal/0667.JPG",
+        "pcb1/Data/Images/Normal/0198.JPG"
+      ],
+      "support_sha256": [
+        "734d394e1717fbca76e033dc8eb42e285d27c7feac9b7ae219fe9006fe475191",
+        "4e19b78e188aa011fd1954776185eff21c28e924cf0ab005c37173fc70fb2ca9"
+      ],
+      "test_count": 200,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "pcb1",
+      "shot": 2,
+      "support_seed": 123,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot2_supportseed123.json",
+      "support_paths": [
+        "pcb1/Data/Images/Normal/0313.JPG",
+        "pcb1/Data/Images/Normal/0030.JPG"
+      ],
+      "support_sha256": [
+        "2d021926061b8d6c887a8c296b46efad8dd0b5a9a2baeef4abfd230121e3fe6d",
+        "9c78f07d0a2860ad888286b6f91a18079c7023f8eb33e889471fb7e149cf3d43"
+      ],
+      "test_count": 200,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "pcb1",
+      "shot": 2,
+      "support_seed": 2024,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot2_supportseed2024.json",
+      "support_paths": [
+        "pcb1/Data/Images/Normal/0715.JPG",
+        "pcb1/Data/Images/Normal/0450.JPG"
+      ],
+      "support_sha256": [
+        "1890464c4f002913e6f4f54b6260446b8074de87a26cf8e8bae2bb90d9d783e7",
+        "00f82acb3fc66abd20763cdf23e020aa2f05b222654c051cd887b552a1f0eed5"
+      ],
+      "test_count": 200,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "pipe_fryum",
+      "shot": 2,
+      "support_seed": 3407,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot2_supportseed3407.json",
+      "support_paths": [
+        "pipe_fryum/Data/Images/Normal/095.JPG",
+        "pipe_fryum/Data/Images/Normal/218.JPG"
+      ],
+      "support_sha256": [
+        "e3f8ccfd909a536181e05348d44e76ae56b2c06026b666c96babb963f3081e0a",
+        "4d0afd2472875f8acef4fb63e5001c6b234d4d6254ea07f5aa46798359627f6a"
+      ],
+      "test_count": 150,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "pipe_fryum",
+      "shot": 2,
+      "support_seed": 42,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot2_supportseed42.json",
+      "support_paths": [
+        "pipe_fryum/Data/Images/Normal/064.JPG",
+        "pipe_fryum/Data/Images/Normal/434.JPG"
+      ],
+      "support_sha256": [
+        "197324ea8557c279af9fccd9fee7cb9bb69d10a4a57edf53a509cf424555e3a8",
+        "e5f5f67f28220aea9307f68262b3d7a45328d29fa57769b0300bb758ecabd6ef"
+      ],
+      "test_count": 150,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "pipe_fryum",
+      "shot": 2,
+      "support_seed": 2026,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot2_supportseed2026.json",
+      "support_paths": [
+        "pipe_fryum/Data/Images/Normal/301.JPG",
+        "pipe_fryum/Data/Images/Normal/330.JPG"
+      ],
+      "support_sha256": [
+        "03d12679a40b7bebb4663c40f8836003d7a54c5e8514eee20457642af8472928",
+        "10e67e5041ef20c2078e12c2f353696d8299d364605ea732f4ea647b728de0dc"
+      ],
+      "test_count": 150,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "pipe_fryum",
+      "shot": 2,
+      "support_seed": 123,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot2_supportseed123.json",
+      "support_paths": [
+        "pipe_fryum/Data/Images/Normal/293.JPG",
+        "pipe_fryum/Data/Images/Normal/095.JPG"
+      ],
+      "support_sha256": [
+        "270900df37a6550b8c8626d81dbb3f832ef2d1063234d3cb1fbd6a111dc01d0f",
+        "e3f8ccfd909a536181e05348d44e76ae56b2c06026b666c96babb963f3081e0a"
+      ],
+      "test_count": 150,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "pipe_fryum",
+      "shot": 2,
+      "support_seed": 2024,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot2_supportseed2024.json",
+      "support_paths": [
+        "pipe_fryum/Data/Images/Normal/045.JPG",
+        "pipe_fryum/Data/Images/Normal/125.JPG"
+      ],
+      "support_sha256": [
+        "a838b3a1bb5a909952f638bed643a23d397ff3ae80d06b0e9f9118b4e0bbabb3",
+        "50c2d0557fee3bcd2ffac612cb67dab5d7f7675f5077aee49ed0a8d1c19c66e9"
+      ],
+      "test_count": 150,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "candle",
+      "shot": 4,
+      "support_seed": 3407,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot4_supportseed3407.json",
+      "support_paths": [
+        "candle/Data/Images/Normal/0475.JPG",
+        "candle/Data/Images/Normal/0042.JPG",
+        "candle/Data/Images/Normal/0874.JPG",
+        "candle/Data/Images/Normal/0813.JPG"
+      ],
+      "support_sha256": [
+        "ff42cac16e973d5ecbf403e404e969d264bbc27b5a63e44861c59801f583b885",
+        "c57cc317f04bd83c2899287bf48c43f29c6c13a3cf3317780df2505ffff4b32d",
+        "685ff05136a750f4fd22bf7862d54dff973a353ff290bed2c16be80e57215cad",
+        "7f6f2dce568060e902b3386e2388a67b0ba16459a8e6a26146b796b569fe1b76"
+      ],
+      "test_count": 200,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "candle",
+      "shot": 4,
+      "support_seed": 42,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot4_supportseed42.json",
+      "support_paths": [
+        "candle/Data/Images/Normal/0233.JPG",
+        "candle/Data/Images/Normal/0761.JPG",
+        "candle/Data/Images/Normal/0433.JPG",
+        "candle/Data/Images/Normal/0543.JPG"
+      ],
+      "support_sha256": [
+        "d6be11f10f12279ae3bae3e61b85f541e219c74bb68dc004fd3bf388e22f04e9",
+        "b0a4325bcc1c53e8e8a71943cf6d7fcf59003d743d4d37b875e5676a2de9c0c9",
+        "e4aee291aecab619b59c52f76a133234b76f9b1ae4981b1ffef89d960ab4a160",
+        "01509b7d639e12294dfc8970019a004877cc10f97c0d14ac88c1a3d74047c567"
+      ],
+      "test_count": 200,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "candle",
+      "shot": 4,
+      "support_seed": 2026,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot4_supportseed2026.json",
+      "support_paths": [
+        "candle/Data/Images/Normal/0271.JPG",
+        "candle/Data/Images/Normal/0551.JPG",
+        "candle/Data/Images/Normal/0038.JPG",
+        "candle/Data/Images/Normal/0148.JPG"
+      ],
+      "support_sha256": [
+        "833cb34d2d8386175610f4cea71c4cab06690032ac49726b6887379748aabb0d",
+        "d7c4b84284d014cbe4fac60ee8638a4ebd986dc63bb63293cfcbd556329caa02",
+        "0f64c7c5e2ecf471d9c8ea1a19ed8cb78494f6821488f8179c7e47ecf605468c",
+        "29995971db12d51b0fcfe75fc9874096695f83b2fb75f6861fe2eae691674d45"
+      ],
+      "test_count": 200,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "candle",
+      "shot": 4,
+      "support_seed": 123,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot4_supportseed123.json",
+      "support_paths": [
+        "candle/Data/Images/Normal/0397.JPG",
+        "candle/Data/Images/Normal/0120.JPG",
+        "candle/Data/Images/Normal/0555.JPG",
+        "candle/Data/Images/Normal/0653.JPG"
+      ],
+      "support_sha256": [
+        "6be3e7ec8c042859fbbc819f118388f3448dd2019570763d4e75cd522965db39",
+        "685b145f1f92e97c2bc7b1ca00b1f15100479db23f2dcb34e1e8b38a713c6b65",
+        "216d5436cdcec24992355ebfaaa99372326ae27e3a593b2b08dd898b743d5be9",
+        "c011c7795cd3508e0aea051aee7e26bf32993b78edc9ed55c0039a3bc9ba9aa4"
+      ],
+      "test_count": 200,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "candle",
+      "shot": 4,
+      "support_seed": 2024,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot4_supportseed2024.json",
+      "support_paths": [
+        "candle/Data/Images/Normal/0146.JPG",
+        "candle/Data/Images/Normal/0613.JPG",
+        "candle/Data/Images/Normal/0091.JPG",
+        "candle/Data/Images/Normal/0660.JPG"
+      ],
+      "support_sha256": [
+        "13efd9c328ef28de11b5190dde1dd04457b4f05d308e4d769d67ee12b4c24ce3",
+        "002f867d19f69bedb36ba7f0afce920300559c71cd92866a515d200ba24f4eff",
+        "d4c16d24e55b1aa36618f5f4dddb0ed3736c7bf5a2a3c872e4d24819ff4f8dea",
+        "6d0ce3014508c0d594381493f4f7090e1f481398490838a64cdcaf1bb85e1b28"
+      ],
+      "test_count": 200,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "capsules",
+      "shot": 4,
+      "support_seed": 3407,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot4_supportseed3407.json",
+      "support_paths": [
+        "capsules/Data/Images/Normal/149.JPG",
+        "capsules/Data/Images/Normal/250.JPG",
+        "capsules/Data/Images/Normal/452.JPG",
+        "capsules/Data/Images/Normal/093.JPG"
+      ],
+      "support_sha256": [
+        "4f98801599670a47c3a28ae7f9fe5a4033368a3fbc7489862345ffbaa1215b71",
+        "131d6fd9f056e59a08a2b4594b95030502d7d89c6e8aa512372da2b1e9a4efab",
+        "46dc563bd2ccc940aca0ce8f4762baf79c33b80713c5a49949bf73fb953f945c",
+        "61dcf4d742d77941f157341f62073000eaeed2165ac749bb84ff56360cecfd16"
+      ],
+      "test_count": 160,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "capsules",
+      "shot": 4,
+      "support_seed": 42,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot4_supportseed42.json",
+      "support_paths": [
+        "capsules/Data/Images/Normal/558.JPG",
+        "capsules/Data/Images/Normal/401.JPG",
+        "capsules/Data/Images/Normal/528.JPG",
+        "capsules/Data/Images/Normal/263.JPG"
+      ],
+      "support_sha256": [
+        "4cb296d29d3f8c4b2731cd845878d145e5fc1ce8d4b9036379a46f40f9601355",
+        "d0af4df3c8b6241bbf37202cb634aa66e2e0c49a8d4fa7f7b8022689402f5fef",
+        "a36eea58415729612208782cf892840dba5195a67acf9f9e08171f37ec48f529",
+        "6e78e415c32dff4f5a3dabc55c4b35e9dbe00f96478af4593a5392b8bd931325"
+      ],
+      "test_count": 160,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "capsules",
+      "shot": 4,
+      "support_seed": 2026,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot4_supportseed2026.json",
+      "support_paths": [
+        "capsules/Data/Images/Normal/492.JPG",
+        "capsules/Data/Images/Normal/537.JPG",
+        "capsules/Data/Images/Normal/060.JPG",
+        "capsules/Data/Images/Normal/217.JPG"
+      ],
+      "support_sha256": [
+        "9968ada0a90bce9dbac839150f995c755fc679e8b6523bda5fc2ece2f7839b64",
+        "ca236c216e8d966cccbca29b964dfe12370cbe7b7262c89306ee6405ab0c1895",
+        "3605f004f5d67d5b929300c0570ade52f52aad9caaacad36d2cc140bca49c54b",
+        "ffc888dec5136f2d74b4d2d18396e45e57ba9dcc615a24abe3c774916aad5486"
+      ],
+      "test_count": 160,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "capsules",
+      "shot": 4,
+      "support_seed": 123,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot4_supportseed123.json",
+      "support_paths": [
+        "capsules/Data/Images/Normal/438.JPG",
+        "capsules/Data/Images/Normal/441.JPG",
+        "capsules/Data/Images/Normal/006.JPG",
+        "capsules/Data/Images/Normal/551.JPG"
+      ],
+      "support_sha256": [
+        "5848bde3ec03e3e1146153ed9d1058b3b4412efec8f9ab219c0935543923891c",
+        "12113008ba45eebb2ffd45b369cbd690c7f91ed4531bd99034737834ade89ab7",
+        "a09d1a46983ae08c643032541d2afe450f8760c7f5bcf160a437fb87308af4e1",
+        "daa9f94d93a64381003dfa5828c8e456a28ef0331b959cab9b538881f1a77839"
+      ],
+      "test_count": 160,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "capsules",
+      "shot": 4,
+      "support_seed": 2024,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot4_supportseed2024.json",
+      "support_paths": [
+        "capsules/Data/Images/Normal/053.JPG",
+        "capsules/Data/Images/Normal/313.JPG",
+        "capsules/Data/Images/Normal/022.JPG",
+        "capsules/Data/Images/Normal/361.JPG"
+      ],
+      "support_sha256": [
+        "f1f14696f62aa988625a27480f7b90a370014d4ca5ea7cf2e3e996c8ddb27bd3",
+        "409542f12426fabb0e185945b13062d5ae2fb8ecc24d2fb1ee6785ad6b8e0011",
+        "4cbcd8aef568fa99bad51961d4bb4e8cc557a69ad227170996ccc5fe8cd7be8d",
+        "bb4341a774e7a2242ec75c206f347d6a25c144a8030792a3bf2c14a456414429"
+      ],
+      "test_count": 160,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "cashew",
+      "shot": 4,
+      "support_seed": 3407,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot4_supportseed3407.json",
+      "support_paths": [
+        "cashew/Data/Images/Normal/112.JPG",
+        "cashew/Data/Images/Normal/278.JPG",
+        "cashew/Data/Images/Normal/361.JPG",
+        "cashew/Data/Images/Normal/236.JPG"
+      ],
+      "support_sha256": [
+        "0111e27a96c149626113522e9efbb86b7980bca0236a46e35afe9031f9bd8043",
+        "c1ea8071676497a64c6701bee52cb1e9809ca4412bb590130ece7e5c991d9e10",
+        "1d5c05acd0af69b744004d21b2c5ca86840876e11fbb2af6b1f362030e56315a",
+        "b6b2e45582099c635e4914b4d30080e50dc5265173cdda5d8509db601e1fe3bb"
+      ],
+      "test_count": 150,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "cashew",
+      "shot": 4,
+      "support_seed": 42,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot4_supportseed42.json",
+      "support_paths": [
+        "cashew/Data/Images/Normal/137.JPG",
+        "cashew/Data/Images/Normal/297.JPG",
+        "cashew/Data/Images/Normal/305.JPG",
+        "cashew/Data/Images/Normal/311.JPG"
+      ],
+      "support_sha256": [
+        "8b0bc8a13d8fbf9e1bd73b5ef1d7edd662ffb06a96cb63eddf29a53259c7208c",
+        "038c5a2d2e6a6b0fe0a96c15054912d93c8e258242b7cdbf4061cd5cd7896a2c",
+        "61fb6ca538141ca04ff7d9175061c77450e50b39f272fc476c4ba96283c41d45",
+        "2dee9d88b433002a756f6f531b2be7c7b05932aadca8d87d262ecd87836eab6a"
+      ],
+      "test_count": 150,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "cashew",
+      "shot": 4,
+      "support_seed": 2026,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot4_supportseed2026.json",
+      "support_paths": [
+        "cashew/Data/Images/Normal/103.JPG",
+        "cashew/Data/Images/Normal/053.JPG",
+        "cashew/Data/Images/Normal/238.JPG",
+        "cashew/Data/Images/Normal/340.JPG"
+      ],
+      "support_sha256": [
+        "660e3f28d1096c81b3da1528d7c27281555999aba174e16bfc10779a63ac76af",
+        "2a861ec418b22563c388a209ee1e61f8fcfff724ce57d01d0d624055b7a344f5",
+        "9721431adafe64de1890def1bb943c5c4da9f5cf0aa90f72241f9df8723d64fa",
+        "5761f2f5ce572d6c0732b32500290ebfdaaca305f63d3d3e6e6802f0aeadd2cf"
+      ],
+      "test_count": 150,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "cashew",
+      "shot": 4,
+      "support_seed": 123,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot4_supportseed123.json",
+      "support_paths": [
+        "cashew/Data/Images/Normal/037.JPG",
+        "cashew/Data/Images/Normal/399.JPG",
+        "cashew/Data/Images/Normal/329.JPG",
+        "cashew/Data/Images/Normal/163.JPG"
+      ],
+      "support_sha256": [
+        "dcf8bd48cae28d15c66f7219a2646116c857c88a1ff16634d47968adc713d125",
+        "59714b6c1ca31b5b782109cc1342b588db6c681c090205320cc963e8b9f42b49",
+        "c5d25de7f218b371ecb33578ee01431f4190c6aa11c51ca9e17186f65e03ccca",
+        "2485924d98eefb68827fb3676c83eb05e7eebc3bc065770bc9acf89b07f27e83"
+      ],
+      "test_count": 150,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "cashew",
+      "shot": 4,
+      "support_seed": 2024,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot4_supportseed2024.json",
+      "support_paths": [
+        "cashew/Data/Images/Normal/483.JPG",
+        "cashew/Data/Images/Normal/075.JPG",
+        "cashew/Data/Images/Normal/465.JPG",
+        "cashew/Data/Images/Normal/439.JPG"
+      ],
+      "support_sha256": [
+        "c5ba772522a3c9eb6735b5a91f559bb9f93bca5ac554ac52df1ded63643aa53a",
+        "e0872111a05c2dd50ca4e0672a20429fc689ba6511a1c62d4c04774fa3a834d8",
+        "3df1beabb7b9857cbafda05c88ba2b13c51273c9bf5db4797c74a9530163e949",
+        "b5d448cef1fba69fcb8d6a14f9e9c6a3e8e3d8ac505adf75e592083aa12e3092"
+      ],
+      "test_count": 150,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "macaroni1",
+      "shot": 4,
+      "support_seed": 3407,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot4_supportseed3407.json",
+      "support_paths": [
+        "macaroni1/Data/Images/Normal/0285.JPG",
+        "macaroni1/Data/Images/Normal/0870.JPG",
+        "macaroni1/Data/Images/Normal/0197.JPG",
+        "macaroni1/Data/Images/Normal/0696.JPG"
+      ],
+      "support_sha256": [
+        "f5f27e666443fead8e1965883c21ec322db4943f37d406691b3d0b27b14a56f1",
+        "d29494d5126017ece0aa62d92d749860c6c5bede59bccf5a88ee29f215126e8c",
+        "4badb939e6a75a4d63747be7b2797389abe4fda9b30c5a0ddb5e7e57e946a953",
+        "dff899869e84df171f5e104e73eeea1cb2a6c605b520eaee1b11a3eec5a272c1"
+      ],
+      "test_count": 200,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "macaroni1",
+      "shot": 4,
+      "support_seed": 42,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot4_supportseed42.json",
+      "support_paths": [
+        "macaroni1/Data/Images/Normal/0450.JPG",
+        "macaroni1/Data/Images/Normal/0191.JPG",
+        "macaroni1/Data/Images/Normal/0686.JPG",
+        "macaroni1/Data/Images/Normal/0339.JPG"
+      ],
+      "support_sha256": [
+        "ada94c30c5a7f68fad87d7340ffe50ffaec099cdff7bba73426bb30831d82731",
+        "a64ef2accf298b12f5f91392b9a3e4069378fbec306ca9102be821198013d179",
+        "0370bc78b1e95d6658bc6964f4864923868bc6108b38cbe3d3f49cdc232ed905",
+        "9dc28c70400d75f0423b6766b4254b7b6e27f02ee6207deb0b2eec236ab3c8fc"
+      ],
+      "test_count": 200,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "macaroni1",
+      "shot": 4,
+      "support_seed": 2026,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot4_supportseed2026.json",
+      "support_paths": [
+        "macaroni1/Data/Images/Normal/0513.JPG",
+        "macaroni1/Data/Images/Normal/0434.JPG",
+        "macaroni1/Data/Images/Normal/0441.JPG",
+        "macaroni1/Data/Images/Normal/0543.JPG"
+      ],
+      "support_sha256": [
+        "2bea44bed53f9f620c1599bf0666223a29e84968c69b4c353b15d4efe28a1648",
+        "117da318ce08e1a58a4e3865daf24bfdb0fc8732b23d047ba1c8af3fc13814dc",
+        "549941e8ea0e56e268e76a794168834cb9dafeda747e007dad3027317d055950",
+        "eac12f72e2796c90461952eebb217a44cb58d2a63bc7585aca655835f86f17df"
+      ],
+      "test_count": 200,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "macaroni1",
+      "shot": 4,
+      "support_seed": 123,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot4_supportseed123.json",
+      "support_paths": [
+        "macaroni1/Data/Images/Normal/0696.JPG",
+        "macaroni1/Data/Images/Normal/0138.JPG",
+        "macaroni1/Data/Images/Normal/0416.JPG",
+        "macaroni1/Data/Images/Normal/0667.JPG"
+      ],
+      "support_sha256": [
+        "dff899869e84df171f5e104e73eeea1cb2a6c605b520eaee1b11a3eec5a272c1",
+        "8d2b160c478d3fc50b2b1b7b5b36990c04daea283d45e449d9cf70ed5bccd7e9",
+        "0375fc9356c3a5c0fbbb7e71d4d6bec8aa01f3833af1725a12dea103f83da0c4",
+        "bd660a0559663df6d4777922b3fe335994be79acfb1a9b5b355d7ad4932a46bf"
+      ],
+      "test_count": 200,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "macaroni1",
+      "shot": 4,
+      "support_seed": 2024,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot4_supportseed2024.json",
+      "support_paths": [
+        "macaroni1/Data/Images/Normal/0315.JPG",
+        "macaroni1/Data/Images/Normal/0937.JPG",
+        "macaroni1/Data/Images/Normal/0292.JPG",
+        "macaroni1/Data/Images/Normal/0943.JPG"
+      ],
+      "support_sha256": [
+        "89c40276e106862fd8ec8cd37085c8c62fe73241e55ed7eea87a34598a4a2a18",
+        "053999326f692ee3954721ab7a2568029de892af8a81093d8607b6b5083aec94",
+        "48dcbfa5735ca67b432897936694703acd6a327ad8362cf4e72a6dabcbcd8928",
+        "7a4a796c3e244e84086d21e0ded7346fcbd754cb2c3066f40404e31c7e3da85b"
+      ],
+      "test_count": 200,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "pcb1",
+      "shot": 4,
+      "support_seed": 3407,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot4_supportseed3407.json",
+      "support_paths": [
+        "pcb1/Data/Images/Normal/0480.JPG",
+        "pcb1/Data/Images/Normal/0319.JPG",
+        "pcb1/Data/Images/Normal/0723.JPG",
+        "pcb1/Data/Images/Normal/0546.JPG"
+      ],
+      "support_sha256": [
+        "ce8523bbf6f3ba8e9908fd59255dfd1775b14d1eb323429c7b9c57ee4c0485a8",
+        "bee65976e5fc24beae55c47782916209b8dfe8e5aed6c9f8d73f9748ac9967bd",
+        "5f191987a95818fe7b33de4369c95908ea1934806bda61eaf10fc22c28e51305",
+        "5f427403fbcadeb1b1fa3e9e8b7c3569e9e15441fb3e1e3a84c7fe4c049653b5"
+      ],
+      "test_count": 200,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "pcb1",
+      "shot": 4,
+      "support_seed": 42,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot4_supportseed42.json",
+      "support_paths": [
+        "pcb1/Data/Images/Normal/0503.JPG",
+        "pcb1/Data/Images/Normal/0918.JPG",
+        "pcb1/Data/Images/Normal/0123.JPG",
+        "pcb1/Data/Images/Normal/0571.JPG"
+      ],
+      "support_sha256": [
+        "9a73b091f6a23c100bf45deb1c0cfe4b2136753439de48aa1f6bed81f6ff7dbb",
+        "ffaa6bb1f99e963b10201b9ecb0609302b52d19317a833d562d7d9ca94a9cf7b",
+        "519341751feace15782a24d7d126ab3ea66c1919872d3cbce7eef25da183912c",
+        "8b5aa0fc2e9de7c7a36d56b321586e7681c16d03a8875ec49e356ee45715281d"
+      ],
+      "test_count": 200,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "pcb1",
+      "shot": 4,
+      "support_seed": 2026,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot4_supportseed2026.json",
+      "support_paths": [
+        "pcb1/Data/Images/Normal/0667.JPG",
+        "pcb1/Data/Images/Normal/0198.JPG",
+        "pcb1/Data/Images/Normal/0599.JPG",
+        "pcb1/Data/Images/Normal/0266.JPG"
+      ],
+      "support_sha256": [
+        "734d394e1717fbca76e033dc8eb42e285d27c7feac9b7ae219fe9006fe475191",
+        "4e19b78e188aa011fd1954776185eff21c28e924cf0ab005c37173fc70fb2ca9",
+        "dad13510b4884949ca5db053a5f56dd75d7eca1c590594bad3110b177bdf6a28",
+        "40f7621395670a8f90ed93b62ae240acd9c7e8a49c1102a94871da2d510ff2f8"
+      ],
+      "test_count": 200,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "pcb1",
+      "shot": 4,
+      "support_seed": 123,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot4_supportseed123.json",
+      "support_paths": [
+        "pcb1/Data/Images/Normal/0313.JPG",
+        "pcb1/Data/Images/Normal/0030.JPG",
+        "pcb1/Data/Images/Normal/0699.JPG",
+        "pcb1/Data/Images/Normal/0345.JPG"
+      ],
+      "support_sha256": [
+        "2d021926061b8d6c887a8c296b46efad8dd0b5a9a2baeef4abfd230121e3fe6d",
+        "9c78f07d0a2860ad888286b6f91a18079c7023f8eb33e889471fb7e149cf3d43",
+        "b9f5c16a671eb025d0594b02a466f5fe97148eed2d9730630ff4ff9d71b659a6",
+        "99fbdcaae524ea7a18469a6ddd8cebcab60e467b0b63fb13d434638976a47d29"
+      ],
+      "test_count": 200,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "pcb1",
+      "shot": 4,
+      "support_seed": 2024,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot4_supportseed2024.json",
+      "support_paths": [
+        "pcb1/Data/Images/Normal/0715.JPG",
+        "pcb1/Data/Images/Normal/0450.JPG",
+        "pcb1/Data/Images/Normal/0886.JPG",
+        "pcb1/Data/Images/Normal/0149.JPG"
+      ],
+      "support_sha256": [
+        "1890464c4f002913e6f4f54b6260446b8074de87a26cf8e8bae2bb90d9d783e7",
+        "00f82acb3fc66abd20763cdf23e020aa2f05b222654c051cd887b552a1f0eed5",
+        "8547abae7536b5a44e2fb4bad11ca8d1e6f507938fec834a41fd7eb761807acc",
+        "f216b69726a356d4aba8a9209dfc62359f676b934e83f10078c4b2042c7c949d"
+      ],
+      "test_count": 200,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "pipe_fryum",
+      "shot": 4,
+      "support_seed": 3407,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot4_supportseed3407.json",
+      "support_paths": [
+        "pipe_fryum/Data/Images/Normal/095.JPG",
+        "pipe_fryum/Data/Images/Normal/218.JPG",
+        "pipe_fryum/Data/Images/Normal/225.JPG",
+        "pipe_fryum/Data/Images/Normal/430.JPG"
+      ],
+      "support_sha256": [
+        "e3f8ccfd909a536181e05348d44e76ae56b2c06026b666c96babb963f3081e0a",
+        "4d0afd2472875f8acef4fb63e5001c6b234d4d6254ea07f5aa46798359627f6a",
+        "cb5ad8b62e5c961977d464a808fcb8c779ce811a500e05ded977af0605a11d4f",
+        "923e3095523792436556ea0857d6218d1197b243a52cbd235392eaa6b8679e15"
+      ],
+      "test_count": 150,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "pipe_fryum",
+      "shot": 4,
+      "support_seed": 42,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot4_supportseed42.json",
+      "support_paths": [
+        "pipe_fryum/Data/Images/Normal/064.JPG",
+        "pipe_fryum/Data/Images/Normal/434.JPG",
+        "pipe_fryum/Data/Images/Normal/216.JPG",
+        "pipe_fryum/Data/Images/Normal/378.JPG"
+      ],
+      "support_sha256": [
+        "197324ea8557c279af9fccd9fee7cb9bb69d10a4a57edf53a509cf424555e3a8",
+        "e5f5f67f28220aea9307f68262b3d7a45328d29fa57769b0300bb758ecabd6ef",
+        "6d604c2abef71322eeb23c43403fe7155366e5320966da8dd27d306606e7865c",
+        "80f2aea5b7ebe062390e8d7d40ea15f11d0f0e7ce923cd0f251e60e18ce88c5a"
+      ],
+      "test_count": 150,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "pipe_fryum",
+      "shot": 4,
+      "support_seed": 2026,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot4_supportseed2026.json",
+      "support_paths": [
+        "pipe_fryum/Data/Images/Normal/301.JPG",
+        "pipe_fryum/Data/Images/Normal/330.JPG",
+        "pipe_fryum/Data/Images/Normal/004.JPG",
+        "pipe_fryum/Data/Images/Normal/163.JPG"
+      ],
+      "support_sha256": [
+        "03d12679a40b7bebb4663c40f8836003d7a54c5e8514eee20457642af8472928",
+        "10e67e5041ef20c2078e12c2f353696d8299d364605ea732f4ea647b728de0dc",
+        "595a7522148b0b04ad5a46d449c0df8ec8e5e479c3c249519d9836dabf25fc3c",
+        "8312e52768fc95f3c9b0a2df5a889b2a04a21e34f4577ddb4571671d9ae5e6f9"
+      ],
+      "test_count": 150,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "pipe_fryum",
+      "shot": 4,
+      "support_seed": 123,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot4_supportseed123.json",
+      "support_paths": [
+        "pipe_fryum/Data/Images/Normal/293.JPG",
+        "pipe_fryum/Data/Images/Normal/095.JPG",
+        "pipe_fryum/Data/Images/Normal/455.JPG",
+        "pipe_fryum/Data/Images/Normal/233.JPG"
+      ],
+      "support_sha256": [
+        "270900df37a6550b8c8626d81dbb3f832ef2d1063234d3cb1fbd6a111dc01d0f",
+        "e3f8ccfd909a536181e05348d44e76ae56b2c06026b666c96babb963f3081e0a",
+        "1cfe1c23117e45cc48f71d6afd49510dc38d796d4625d1869a1e2def855881cd",
+        "e798639eb9ce605883c595dae5e46f8e5a766a37e124395fb044a88975030328"
+      ],
+      "test_count": 150,
+      "pilot": false
+    },
+    {
+      "dataset": "VisA",
+      "category": "pipe_fryum",
+      "shot": 4,
+      "support_seed": 2024,
+      "split_json": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\splits\\visa_1cls_shot4_supportseed2024.json",
+      "support_paths": [
+        "pipe_fryum/Data/Images/Normal/045.JPG",
+        "pipe_fryum/Data/Images/Normal/125.JPG",
+        "pipe_fryum/Data/Images/Normal/429.JPG",
+        "pipe_fryum/Data/Images/Normal/472.JPG"
+      ],
+      "support_sha256": [
+        "a838b3a1bb5a909952f638bed643a23d397ff3ae80d06b0e9f9118b4e0bbabb3",
+        "50c2d0557fee3bcd2ffac612cb67dab5d7f7675f5077aee49ed0a8d1c19c66e9",
+        "e68e4f97eefb9a4ee91af59b636090bc58f8a4716a190224e7ef6a5253dd6df7",
+        "a1047dbbb750927435927d544716a87158a14307a2fdc18cc7f9c24608ea332e"
+      ],
+      "test_count": 150,
+      "pilot": false
+    }
+  ]
+}

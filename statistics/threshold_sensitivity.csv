@@ -1,0 +1,10 @@
+sd_threshold_pp,range_threshold_pp,analysis,promptad_sensitive,winclip_sensitive,both_sensitive,promptad_only,winclip_only,both_insensitive,agreement,expected_agreement,kappa
+0.8,1.6,post-hoc neighborhood,12,9,9,3,0,0,0.75,0.75,0.0
+0.8,2.0,post-hoc neighborhood,12,8,8,4,0,0,0.6666666666666666,0.6666666666666666,0.0
+0.8,2.4,post-hoc neighborhood,12,8,8,4,0,0,0.6666666666666666,0.6666666666666666,0.0
+1.0,1.6,post-hoc neighborhood,12,9,9,3,0,0,0.75,0.75,0.0
+1.0,2.0,main frozen rule,11,8,8,3,0,1,0.75,0.6388888888888888,0.30769230769230776
+1.0,2.4,post-hoc neighborhood,11,8,8,3,0,1,0.75,0.6388888888888888,0.30769230769230776
+1.2,1.6,post-hoc neighborhood,12,9,9,3,0,0,0.75,0.75,0.0
+1.2,2.0,post-hoc neighborhood,11,8,8,3,0,1,0.75,0.6388888888888888,0.30769230769230776
+1.2,2.4,post-hoc neighborhood,11,8,8,3,0,1,0.75,0.6388888888888888,0.30769230769230776

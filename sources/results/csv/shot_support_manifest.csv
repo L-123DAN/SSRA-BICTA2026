@@ -1,0 +1,61 @@
+category,shot,support_seed,support_paths,split_file
+cashew,2,3407,"[""cashew/Data/Images/Normal/112.JPG"", ""cashew/Data/Images/Normal/278.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot2_supportseed3407.json
+cashew,2,42,"[""cashew/Data/Images/Normal/137.JPG"", ""cashew/Data/Images/Normal/297.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot2_supportseed42.json
+cashew,2,2026,"[""cashew/Data/Images/Normal/103.JPG"", ""cashew/Data/Images/Normal/053.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot2_supportseed2026.json
+cashew,2,123,"[""cashew/Data/Images/Normal/037.JPG"", ""cashew/Data/Images/Normal/399.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot2_supportseed123.json
+cashew,2,2024,"[""cashew/Data/Images/Normal/483.JPG"", ""cashew/Data/Images/Normal/075.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot2_supportseed2024.json
+cashew,4,3407,"[""cashew/Data/Images/Normal/112.JPG"", ""cashew/Data/Images/Normal/278.JPG"", ""cashew/Data/Images/Normal/361.JPG"", ""cashew/Data/Images/Normal/236.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot4_supportseed3407.json
+cashew,4,42,"[""cashew/Data/Images/Normal/137.JPG"", ""cashew/Data/Images/Normal/297.JPG"", ""cashew/Data/Images/Normal/305.JPG"", ""cashew/Data/Images/Normal/311.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot4_supportseed42.json
+cashew,4,2026,"[""cashew/Data/Images/Normal/103.JPG"", ""cashew/Data/Images/Normal/053.JPG"", ""cashew/Data/Images/Normal/238.JPG"", ""cashew/Data/Images/Normal/340.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot4_supportseed2026.json
+cashew,4,123,"[""cashew/Data/Images/Normal/037.JPG"", ""cashew/Data/Images/Normal/399.JPG"", ""cashew/Data/Images/Normal/329.JPG"", ""cashew/Data/Images/Normal/163.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot4_supportseed123.json
+cashew,4,2024,"[""cashew/Data/Images/Normal/483.JPG"", ""cashew/Data/Images/Normal/075.JPG"", ""cashew/Data/Images/Normal/465.JPG"", ""cashew/Data/Images/Normal/439.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot4_supportseed2024.json
+candle,2,3407,"[""candle/Data/Images/Normal/0475.JPG"", ""candle/Data/Images/Normal/0042.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot2_supportseed3407.json
+candle,2,42,"[""candle/Data/Images/Normal/0233.JPG"", ""candle/Data/Images/Normal/0761.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot2_supportseed42.json
+candle,2,2026,"[""candle/Data/Images/Normal/0271.JPG"", ""candle/Data/Images/Normal/0551.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot2_supportseed2026.json
+candle,2,123,"[""candle/Data/Images/Normal/0397.JPG"", ""candle/Data/Images/Normal/0120.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot2_supportseed123.json
+candle,2,2024,"[""candle/Data/Images/Normal/0146.JPG"", ""candle/Data/Images/Normal/0613.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot2_supportseed2024.json
+candle,4,3407,"[""candle/Data/Images/Normal/0475.JPG"", ""candle/Data/Images/Normal/0042.JPG"", ""candle/Data/Images/Normal/0874.JPG"", ""candle/Data/Images/Normal/0813.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot4_supportseed3407.json
+candle,4,42,"[""candle/Data/Images/Normal/0233.JPG"", ""candle/Data/Images/Normal/0761.JPG"", ""candle/Data/Images/Normal/0433.JPG"", ""candle/Data/Images/Normal/0543.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot4_supportseed42.json
+candle,4,2026,"[""candle/Data/Images/Normal/0271.JPG"", ""candle/Data/Images/Normal/0551.JPG"", ""candle/Data/Images/Normal/0038.JPG"", ""candle/Data/Images/Normal/0148.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot4_supportseed2026.json
+candle,4,123,"[""candle/Data/Images/Normal/0397.JPG"", ""candle/Data/Images/Normal/0120.JPG"", ""candle/Data/Images/Normal/0555.JPG"", ""candle/Data/Images/Normal/0653.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot4_supportseed123.json
+candle,4,2024,"[""candle/Data/Images/Normal/0146.JPG"", ""candle/Data/Images/Normal/0613.JPG"", ""candle/Data/Images/Normal/0091.JPG"", ""candle/Data/Images/Normal/0660.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot4_supportseed2024.json
+capsules,2,3407,"[""capsules/Data/Images/Normal/149.JPG"", ""capsules/Data/Images/Normal/250.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot2_supportseed3407.json
+capsules,2,42,"[""capsules/Data/Images/Normal/558.JPG"", ""capsules/Data/Images/Normal/401.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot2_supportseed42.json
+capsules,2,2026,"[""capsules/Data/Images/Normal/492.JPG"", ""capsules/Data/Images/Normal/537.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot2_supportseed2026.json
+capsules,2,123,"[""capsules/Data/Images/Normal/438.JPG"", ""capsules/Data/Images/Normal/441.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot2_supportseed123.json
+capsules,2,2024,"[""capsules/Data/Images/Normal/053.JPG"", ""capsules/Data/Images/Normal/313.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot2_supportseed2024.json
+capsules,4,3407,"[""capsules/Data/Images/Normal/149.JPG"", ""capsules/Data/Images/Normal/250.JPG"", ""capsules/Data/Images/Normal/452.JPG"", ""capsules/Data/Images/Normal/093.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot4_supportseed3407.json
+capsules,4,42,"[""capsules/Data/Images/Normal/558.JPG"", ""capsules/Data/Images/Normal/401.JPG"", ""capsules/Data/Images/Normal/528.JPG"", ""capsules/Data/Images/Normal/263.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot4_supportseed42.json
+capsules,4,2026,"[""capsules/Data/Images/Normal/492.JPG"", ""capsules/Data/Images/Normal/537.JPG"", ""capsules/Data/Images/Normal/060.JPG"", ""capsules/Data/Images/Normal/217.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot4_supportseed2026.json
+capsules,4,123,"[""capsules/Data/Images/Normal/438.JPG"", ""capsules/Data/Images/Normal/441.JPG"", ""capsules/Data/Images/Normal/006.JPG"", ""capsules/Data/Images/Normal/551.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot4_supportseed123.json
+capsules,4,2024,"[""capsules/Data/Images/Normal/053.JPG"", ""capsules/Data/Images/Normal/313.JPG"", ""capsules/Data/Images/Normal/022.JPG"", ""capsules/Data/Images/Normal/361.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot4_supportseed2024.json
+pcb1,2,3407,"[""pcb1/Data/Images/Normal/0480.JPG"", ""pcb1/Data/Images/Normal/0319.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot2_supportseed3407.json
+pcb1,2,42,"[""pcb1/Data/Images/Normal/0503.JPG"", ""pcb1/Data/Images/Normal/0918.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot2_supportseed42.json
+pcb1,2,2026,"[""pcb1/Data/Images/Normal/0667.JPG"", ""pcb1/Data/Images/Normal/0198.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot2_supportseed2026.json
+pcb1,2,123,"[""pcb1/Data/Images/Normal/0313.JPG"", ""pcb1/Data/Images/Normal/0030.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot2_supportseed123.json
+pcb1,2,2024,"[""pcb1/Data/Images/Normal/0715.JPG"", ""pcb1/Data/Images/Normal/0450.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot2_supportseed2024.json
+pcb1,4,3407,"[""pcb1/Data/Images/Normal/0480.JPG"", ""pcb1/Data/Images/Normal/0319.JPG"", ""pcb1/Data/Images/Normal/0723.JPG"", ""pcb1/Data/Images/Normal/0546.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot4_supportseed3407.json
+pcb1,4,42,"[""pcb1/Data/Images/Normal/0503.JPG"", ""pcb1/Data/Images/Normal/0918.JPG"", ""pcb1/Data/Images/Normal/0123.JPG"", ""pcb1/Data/Images/Normal/0571.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot4_supportseed42.json
+pcb1,4,2026,"[""pcb1/Data/Images/Normal/0667.JPG"", ""pcb1/Data/Images/Normal/0198.JPG"", ""pcb1/Data/Images/Normal/0599.JPG"", ""pcb1/Data/Images/Normal/0266.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot4_supportseed2026.json
+pcb1,4,123,"[""pcb1/Data/Images/Normal/0313.JPG"", ""pcb1/Data/Images/Normal/0030.JPG"", ""pcb1/Data/Images/Normal/0699.JPG"", ""pcb1/Data/Images/Normal/0345.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot4_supportseed123.json
+pcb1,4,2024,"[""pcb1/Data/Images/Normal/0715.JPG"", ""pcb1/Data/Images/Normal/0450.JPG"", ""pcb1/Data/Images/Normal/0886.JPG"", ""pcb1/Data/Images/Normal/0149.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot4_supportseed2024.json
+macaroni1,2,3407,"[""macaroni1/Data/Images/Normal/0285.JPG"", ""macaroni1/Data/Images/Normal/0870.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot2_supportseed3407.json
+macaroni1,2,42,"[""macaroni1/Data/Images/Normal/0450.JPG"", ""macaroni1/Data/Images/Normal/0191.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot2_supportseed42.json
+macaroni1,2,2026,"[""macaroni1/Data/Images/Normal/0513.JPG"", ""macaroni1/Data/Images/Normal/0434.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot2_supportseed2026.json
+macaroni1,2,123,"[""macaroni1/Data/Images/Normal/0696.JPG"", ""macaroni1/Data/Images/Normal/0138.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot2_supportseed123.json
+macaroni1,2,2024,"[""macaroni1/Data/Images/Normal/0315.JPG"", ""macaroni1/Data/Images/Normal/0937.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot2_supportseed2024.json
+macaroni1,4,3407,"[""macaroni1/Data/Images/Normal/0285.JPG"", ""macaroni1/Data/Images/Normal/0870.JPG"", ""macaroni1/Data/Images/Normal/0197.JPG"", ""macaroni1/Data/Images/Normal/0696.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot4_supportseed3407.json
+macaroni1,4,42,"[""macaroni1/Data/Images/Normal/0450.JPG"", ""macaroni1/Data/Images/Normal/0191.JPG"", ""macaroni1/Data/Images/Normal/0686.JPG"", ""macaroni1/Data/Images/Normal/0339.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot4_supportseed42.json
+macaroni1,4,2026,"[""macaroni1/Data/Images/Normal/0513.JPG"", ""macaroni1/Data/Images/Normal/0434.JPG"", ""macaroni1/Data/Images/Normal/0441.JPG"", ""macaroni1/Data/Images/Normal/0543.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot4_supportseed2026.json
+macaroni1,4,123,"[""macaroni1/Data/Images/Normal/0696.JPG"", ""macaroni1/Data/Images/Normal/0138.JPG"", ""macaroni1/Data/Images/Normal/0416.JPG"", ""macaroni1/Data/Images/Normal/0667.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot4_supportseed123.json
+macaroni1,4,2024,"[""macaroni1/Data/Images/Normal/0315.JPG"", ""macaroni1/Data/Images/Normal/0937.JPG"", ""macaroni1/Data/Images/Normal/0292.JPG"", ""macaroni1/Data/Images/Normal/0943.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot4_supportseed2024.json
+pipe_fryum,2,3407,"[""pipe_fryum/Data/Images/Normal/095.JPG"", ""pipe_fryum/Data/Images/Normal/218.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot2_supportseed3407.json
+pipe_fryum,2,42,"[""pipe_fryum/Data/Images/Normal/064.JPG"", ""pipe_fryum/Data/Images/Normal/434.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot2_supportseed42.json
+pipe_fryum,2,2026,"[""pipe_fryum/Data/Images/Normal/301.JPG"", ""pipe_fryum/Data/Images/Normal/330.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot2_supportseed2026.json
+pipe_fryum,2,123,"[""pipe_fryum/Data/Images/Normal/293.JPG"", ""pipe_fryum/Data/Images/Normal/095.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot2_supportseed123.json
+pipe_fryum,2,2024,"[""pipe_fryum/Data/Images/Normal/045.JPG"", ""pipe_fryum/Data/Images/Normal/125.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot2_supportseed2024.json
+pipe_fryum,4,3407,"[""pipe_fryum/Data/Images/Normal/095.JPG"", ""pipe_fryum/Data/Images/Normal/218.JPG"", ""pipe_fryum/Data/Images/Normal/225.JPG"", ""pipe_fryum/Data/Images/Normal/430.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot4_supportseed3407.json
+pipe_fryum,4,42,"[""pipe_fryum/Data/Images/Normal/064.JPG"", ""pipe_fryum/Data/Images/Normal/434.JPG"", ""pipe_fryum/Data/Images/Normal/216.JPG"", ""pipe_fryum/Data/Images/Normal/378.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot4_supportseed42.json
+pipe_fryum,4,2026,"[""pipe_fryum/Data/Images/Normal/301.JPG"", ""pipe_fryum/Data/Images/Normal/330.JPG"", ""pipe_fryum/Data/Images/Normal/004.JPG"", ""pipe_fryum/Data/Images/Normal/163.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot4_supportseed2026.json
+pipe_fryum,4,123,"[""pipe_fryum/Data/Images/Normal/293.JPG"", ""pipe_fryum/Data/Images/Normal/095.JPG"", ""pipe_fryum/Data/Images/Normal/455.JPG"", ""pipe_fryum/Data/Images/Normal/233.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot4_supportseed123.json
+pipe_fryum,4,2024,"[""pipe_fryum/Data/Images/Normal/045.JPG"", ""pipe_fryum/Data/Images/Normal/125.JPG"", ""pipe_fryum/Data/Images/Normal/429.JPG"", ""pipe_fryum/Data/Images/Normal/472.JPG""]",PROJECT_ROOT\splits\visa_1cls_shot4_supportseed2024.json

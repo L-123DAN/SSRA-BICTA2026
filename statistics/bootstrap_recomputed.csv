@@ -1,0 +1,15 @@
+scope,metric,contrast,statistic,estimate_pp,lower_pp,upper_pp,seed,draws,unit,method
+cross_1shot,I_AUROC,performance_mean_winclip_minus_promptad_pp,mean,2.5650145764576435,-3.540307205720577,8.724397689768972,20261010,10000,fixed category,nearest rank 250th and 9750th sorted draws
+cross_1shot,I_AUROC,support_sd_winclip_minus_promptad_pp,mean,-2.180567988489985,-5.393597349015323,0.2390040093098616,20261011,10000,fixed category,nearest rank 250th and 9750th sorted draws
+cross_1shot,P_AUROC,performance_mean_winclip_minus_promptad_pp,mean,3.095653394308147,-0.6844470176476006,9.059898096804893,20261012,10000,fixed category,nearest rank 250th and 9750th sorted draws
+cross_1shot,P_AUROC,support_sd_winclip_minus_promptad_pp,mean,-0.555546716407234,-1.1312673542052174,-0.13626078730833954,20261013,10000,fixed category,nearest rank 250th and 9750th sorted draws
+cross_1shot,AUPRO,performance_mean_winclip_minus_promptad_pp,mean,0.5556472145972423,-7.595465619864502,10.176581651495175,20261014,10000,fixed category,nearest rank 250th and 9750th sorted draws
+cross_1shot,AUPRO,support_sd_winclip_minus_promptad_pp,mean,-0.4556144622843082,-1.3339542398221615,0.4761405588214016,20261015,10000,fixed category,nearest rank 250th and 9750th sorted draws
+PromptAD_shot,I_AUROC,sd_1_minus_4_pp,mean,7.202426065167167,1.39330253892264,14.358680057932913,20261009,10000,fixed category,nearest rank 250th and 9750th sorted draws
+PromptAD_shot,I_AUROC,sd_1_minus_4_pp,median,2.909695330510334,0.5943575127152572,18.103225352275906,20261010,10000,fixed category,nearest rank 250th and 9750th sorted draws
+PromptAD_shot,I_AUROC,range_1_minus_4_pp,mean,15.845000000000002,3.3133333333333397,29.66,20261009,10000,fixed category,nearest rank 250th and 9750th sorted draws
+PromptAD_shot,I_AUROC,range_1_minus_4_pp,median,7.4950000000000045,1.1500000000000057,38.89,20261010,10000,fixed category,nearest rank 250th and 9750th sorted draws
+PromptAD_shot,I_AUROC,worst_4_minus_1_pp,mean,15.668333333333335,2.9466666666666703,29.82,20261009,10000,fixed category,nearest rank 250th and 9750th sorted draws
+PromptAD_shot,I_AUROC,worst_4_minus_1_pp,median,6.795000000000002,1.0200000000000031,39.19,20261010,10000,fixed category,nearest rank 250th and 9750th sorted draws
+PromptAD_shot,I_AUROC,mean_4_minus_1_pp,mean,5.300999999999999,0.9039999999999964,10.734000000000004,20261009,10000,fixed category,nearest rank 250th and 9750th sorted draws
+PromptAD_shot,I_AUROC,mean_4_minus_1_pp,median,2.0379999999999967,0.3369999999999962,13.528000000000006,20261010,10000,fixed category,nearest rank 250th and 9750th sorted draws

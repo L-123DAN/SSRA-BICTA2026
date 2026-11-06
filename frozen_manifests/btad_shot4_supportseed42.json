@@ -1,0 +1,5263 @@
+{
+  "dataset": "BTAD",
+  "index": "C:\\Users\\LOCAL_USER\\Documents\\ChatGPT\\EI\\EI_PromptAD\\results\\csv\\ssra_btad_index.csv",
+  "index_sha256": "76013af85f5b4033ae392e6871950ff6d0919f93b7118eb52fe9d7a40d405bfe",
+  "shot": 4,
+  "support_seed": 42,
+  "sampling": "random.Random(f'{seed}:{category}').sample(sorted_train, shot)",
+  "categories": {
+    "01": {
+      "support": [
+        {
+          "image": "01/train/ok/0180.bmp",
+          "sha256": "3706cba8331af4acf44415df40af51beb54bf6432ec33c2daa6bac12dc8d2d3e"
+        },
+        {
+          "image": "01/train/ok/0255.bmp",
+          "sha256": "c6649a3d8b30f70930b7b77d7d1fb501f216fd235b413ab9bbc944c45854aa79"
+        },
+        {
+          "image": "01/train/ok/0102.bmp",
+          "sha256": "0e904db36c9f7bb66ed57099305b6417bd4cbfe059231bb310d0ce39fa9ddb62"
+        },
+        {
+          "image": "01/train/ok/0299.bmp",
+          "sha256": "7480a9e86125e0991c00f69c60e8f08939fa59e4bc5857cf4639c9191562cd0f"
+        }
+      ],
+      "test": [
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "01/test/ko/0000.bmp",
+          "mask": "01/ground_truth/ko/0000.png"
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "01/test/ko/0001.bmp",
+          "mask": "01/ground_truth/ko/0001.png"
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "01/test/ko/0002.bmp",
+          "mask": "01/ground_truth/ko/0002.png"
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "01/test/ko/0003.bmp",
+          "mask": "01/ground_truth/ko/0003.png"
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "01/test/ko/0004.bmp",
+          "mask": "01/ground_truth/ko/0004.png"
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "01/test/ko/0005.bmp",
+          "mask": "01/ground_truth/ko/0005.png"
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "01/test/ko/0006.bmp",
+          "mask": "01/ground_truth/ko/0006.png"
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "01/test/ko/0007.bmp",
+          "mask": "01/ground_truth/ko/0007.png"
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "01/test/ko/0008.bmp",
+          "mask": "01/ground_truth/ko/0008.png"
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "01/test/ko/0009.bmp",
+          "mask": "01/ground_truth/ko/0009.png"
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "01/test/ko/0010.bmp",
+          "mask": "01/ground_truth/ko/0010.png"
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "01/test/ko/0011.bmp",
+          "mask": "01/ground_truth/ko/0011.png"
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "01/test/ko/0012.bmp",
+          "mask": "01/ground_truth/ko/0012.png"
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "01/test/ko/0013.bmp",
+          "mask": "01/ground_truth/ko/0013.png"
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "01/test/ko/0014.bmp",
+          "mask": "01/ground_truth/ko/0014.png"
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "01/test/ko/0015.bmp",
+          "mask": "01/ground_truth/ko/0015.png"
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "01/test/ko/0016.bmp",
+          "mask": "01/ground_truth/ko/0016.png"
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "01/test/ko/0017.bmp",
+          "mask": "01/ground_truth/ko/0017.png"
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "01/test/ko/0018.bmp",
+          "mask": "01/ground_truth/ko/0018.png"
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "01/test/ko/0019.bmp",
+          "mask": "01/ground_truth/ko/0019.png"
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "01/test/ko/0020.bmp",
+          "mask": "01/ground_truth/ko/0020.png"
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "01/test/ko/0021.bmp",
+          "mask": "01/ground_truth/ko/0021.png"
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "01/test/ko/0022.bmp",
+          "mask": "01/ground_truth/ko/0022.png"
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "01/test/ko/0023.bmp",
+          "mask": "01/ground_truth/ko/0023.png"
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "01/test/ko/0024.bmp",
+          "mask": "01/ground_truth/ko/0024.png"
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "01/test/ko/0025.bmp",
+          "mask": "01/ground_truth/ko/0025.png"
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "01/test/ko/0026.bmp",
+          "mask": "01/ground_truth/ko/0026.png"
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "01/test/ko/0028.bmp",
+          "mask": "01/ground_truth/ko/0028.png"
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "01/test/ko/0029.bmp",
+          "mask": "01/ground_truth/ko/0029.png"
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "01/test/ko/0030.bmp",
+          "mask": "01/ground_truth/ko/0030.png"
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "01/test/ko/0031.bmp",
+          "mask": "01/ground_truth/ko/0031.png"
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "01/test/ko/0032.bmp",
+          "mask": "01/ground_truth/ko/0032.png"
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "01/test/ko/0033.bmp",
+          "mask": "01/ground_truth/ko/0033.png"
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "01/test/ko/0034.bmp",
+          "mask": "01/ground_truth/ko/0034.png"
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "01/test/ko/0035.bmp",
+          "mask": "01/ground_truth/ko/0035.png"
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "01/test/ko/0036.bmp",
+          "mask": "01/ground_truth/ko/0036.png"
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "01/test/ko/0037.bmp",
+          "mask": "01/ground_truth/ko/0037.png"
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "01/test/ko/0038.bmp",
+          "mask": "01/ground_truth/ko/0038.png"
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "01/test/ko/0039.bmp",
+          "mask": "01/ground_truth/ko/0039.png"
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "01/test/ko/0040.bmp",
+          "mask": "01/ground_truth/ko/0040.png"
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "01/test/ko/0041.bmp",
+          "mask": "01/ground_truth/ko/0041.png"
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "01/test/ko/0042.bmp",
+          "mask": "01/ground_truth/ko/0042.png"
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "01/test/ko/0043.bmp",
+          "mask": "01/ground_truth/ko/0043.png"
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "01/test/ko/0044.bmp",
+          "mask": "01/ground_truth/ko/0044.png"
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "01/test/ko/0045.bmp",
+          "mask": "01/ground_truth/ko/0045.png"
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "01/test/ko/0046.bmp",
+          "mask": "01/ground_truth/ko/0046.png"
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "01/test/ko/0047.bmp",
+          "mask": "01/ground_truth/ko/0047.png"
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "01/test/ko/0048.bmp",
+          "mask": "01/ground_truth/ko/0048.png"
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "01/test/ko/0049.bmp",
+          "mask": "01/ground_truth/ko/0049.png"
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "normal",
+          "image": "01/test/ok/0000.bmp",
+          "mask": ""
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "normal",
+          "image": "01/test/ok/0001.bmp",
+          "mask": ""
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "normal",
+          "image": "01/test/ok/0002.bmp",
+          "mask": ""
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "normal",
+          "image": "01/test/ok/0003.bmp",
+          "mask": ""
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "normal",
+          "image": "01/test/ok/0004.bmp",
+          "mask": ""
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "normal",
+          "image": "01/test/ok/0005.bmp",
+          "mask": ""
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "normal",
+          "image": "01/test/ok/0006.bmp",
+          "mask": ""
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "normal",
+          "image": "01/test/ok/0007.bmp",
+          "mask": ""
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "normal",
+          "image": "01/test/ok/0008.bmp",
+          "mask": ""
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "normal",
+          "image": "01/test/ok/0009.bmp",
+          "mask": ""
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "normal",
+          "image": "01/test/ok/0010.bmp",
+          "mask": ""
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "normal",
+          "image": "01/test/ok/0011.bmp",
+          "mask": ""
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "normal",
+          "image": "01/test/ok/0012.bmp",
+          "mask": ""
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "normal",
+          "image": "01/test/ok/0013.bmp",
+          "mask": ""
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "normal",
+          "image": "01/test/ok/0014.bmp",
+          "mask": ""
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "normal",
+          "image": "01/test/ok/0015.bmp",
+          "mask": ""
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "normal",
+          "image": "01/test/ok/0016.bmp",
+          "mask": ""
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "normal",
+          "image": "01/test/ok/0017.bmp",
+          "mask": ""
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "normal",
+          "image": "01/test/ok/0018.bmp",
+          "mask": ""
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "normal",
+          "image": "01/test/ok/0019.bmp",
+          "mask": ""
+        },
+        {
+          "category": "01",
+          "phase": "test",
+          "label": "normal",
+          "image": "01/test/ok/0020.bmp",
+          "mask": ""
+        }
+      ]
+    },
+    "02": {
+      "support": [
+        {
+          "image": "02/train/ok/0110.png",
+          "sha256": "942d03d31c7178281b32704a03d8f01fda3386241d218cf6b6ba690d30230906"
+        },
+        {
+          "image": "02/train/ok/0394.png",
+          "sha256": "24aaf5ab3e0d5a6f8dd1f4d717297669d77fe95235c701abf3f3ac7527515e2b"
+        },
+        {
+          "image": "02/train/ok/0175.png",
+          "sha256": "aa96424e267eb8bfa51f022d54e019284c9cfd23a7445d6b3644977ab1776253"
+        },
+        {
+          "image": "02/train/ok/0262.png",
+          "sha256": "10424293885cba55557d5e127e3f185f3e607829b848ced15d76f1037f4a1b95"
+        }
+      ],
+      "test": [
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0000.png",
+          "mask": "02/ground_truth/ko/0000.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0001.png",
+          "mask": "02/ground_truth/ko/0001.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0002.png",
+          "mask": "02/ground_truth/ko/0002.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0003.png",
+          "mask": "02/ground_truth/ko/0003.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0004.png",
+          "mask": "02/ground_truth/ko/0004.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0005.png",
+          "mask": "02/ground_truth/ko/0005.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0006.png",
+          "mask": "02/ground_truth/ko/0006.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0007.png",
+          "mask": "02/ground_truth/ko/0007.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0008.png",
+          "mask": "02/ground_truth/ko/0008.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0009.png",
+          "mask": "02/ground_truth/ko/0009.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0010.png",
+          "mask": "02/ground_truth/ko/0010.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0011.png",
+          "mask": "02/ground_truth/ko/0011.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0012.png",
+          "mask": "02/ground_truth/ko/0012.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0013.png",
+          "mask": "02/ground_truth/ko/0013.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0014.png",
+          "mask": "02/ground_truth/ko/0014.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0015.png",
+          "mask": "02/ground_truth/ko/0015.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0016.png",
+          "mask": "02/ground_truth/ko/0016.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0017.png",
+          "mask": "02/ground_truth/ko/0017.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0018.png",
+          "mask": "02/ground_truth/ko/0018.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0019.png",
+          "mask": "02/ground_truth/ko/0019.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0020.png",
+          "mask": "02/ground_truth/ko/0020.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0021.png",
+          "mask": "02/ground_truth/ko/0021.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0022.png",
+          "mask": "02/ground_truth/ko/0022.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0023.png",
+          "mask": "02/ground_truth/ko/0023.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0024.png",
+          "mask": "02/ground_truth/ko/0024.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0025.png",
+          "mask": "02/ground_truth/ko/0025.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0026.png",
+          "mask": "02/ground_truth/ko/0026.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0027.png",
+          "mask": "02/ground_truth/ko/0027.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0028.png",
+          "mask": "02/ground_truth/ko/0028.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0029.png",
+          "mask": "02/ground_truth/ko/0029.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0030.png",
+          "mask": "02/ground_truth/ko/0030.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0031.png",
+          "mask": "02/ground_truth/ko/0031.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0032.png",
+          "mask": "02/ground_truth/ko/0032.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0033.png",
+          "mask": "02/ground_truth/ko/0033.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0034.png",
+          "mask": "02/ground_truth/ko/0034.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0035.png",
+          "mask": "02/ground_truth/ko/0035.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0036.png",
+          "mask": "02/ground_truth/ko/0036.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0037.png",
+          "mask": "02/ground_truth/ko/0037.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0038.png",
+          "mask": "02/ground_truth/ko/0038.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0039.png",
+          "mask": "02/ground_truth/ko/0039.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0040.png",
+          "mask": "02/ground_truth/ko/0040.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0041.png",
+          "mask": "02/ground_truth/ko/0041.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0042.png",
+          "mask": "02/ground_truth/ko/0042.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0043.png",
+          "mask": "02/ground_truth/ko/0043.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0044.png",
+          "mask": "02/ground_truth/ko/0044.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0045.png",
+          "mask": "02/ground_truth/ko/0045.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0046.png",
+          "mask": "02/ground_truth/ko/0046.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0047.png",
+          "mask": "02/ground_truth/ko/0047.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0048.png",
+          "mask": "02/ground_truth/ko/0048.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0049.png",
+          "mask": "02/ground_truth/ko/0049.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0050.png",
+          "mask": "02/ground_truth/ko/0050.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0051.png",
+          "mask": "02/ground_truth/ko/0051.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0052.png",
+          "mask": "02/ground_truth/ko/0052.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0053.png",
+          "mask": "02/ground_truth/ko/0053.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0054.png",
+          "mask": "02/ground_truth/ko/0054.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0055.png",
+          "mask": "02/ground_truth/ko/0055.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0056.png",
+          "mask": "02/ground_truth/ko/0056.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0057.png",
+          "mask": "02/ground_truth/ko/0057.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0058.png",
+          "mask": "02/ground_truth/ko/0058.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0059.png",
+          "mask": "02/ground_truth/ko/0059.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0060.png",
+          "mask": "02/ground_truth/ko/0060.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0061.png",
+          "mask": "02/ground_truth/ko/0061.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0062.png",
+          "mask": "02/ground_truth/ko/0062.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0063.png",
+          "mask": "02/ground_truth/ko/0063.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0064.png",
+          "mask": "02/ground_truth/ko/0064.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0065.png",
+          "mask": "02/ground_truth/ko/0065.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0066.png",
+          "mask": "02/ground_truth/ko/0066.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0067.png",
+          "mask": "02/ground_truth/ko/0067.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0068.png",
+          "mask": "02/ground_truth/ko/0068.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0069.png",
+          "mask": "02/ground_truth/ko/0069.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0070.png",
+          "mask": "02/ground_truth/ko/0070.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0071.png",
+          "mask": "02/ground_truth/ko/0071.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0072.png",
+          "mask": "02/ground_truth/ko/0072.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0073.png",
+          "mask": "02/ground_truth/ko/0073.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0074.png",
+          "mask": "02/ground_truth/ko/0074.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0075.png",
+          "mask": "02/ground_truth/ko/0075.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0076.png",
+          "mask": "02/ground_truth/ko/0076.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0077.png",
+          "mask": "02/ground_truth/ko/0077.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0078.png",
+          "mask": "02/ground_truth/ko/0078.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0079.png",
+          "mask": "02/ground_truth/ko/0079.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0080.png",
+          "mask": "02/ground_truth/ko/0080.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0081.png",
+          "mask": "02/ground_truth/ko/0081.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0082.png",
+          "mask": "02/ground_truth/ko/0082.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0083.png",
+          "mask": "02/ground_truth/ko/0083.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0084.png",
+          "mask": "02/ground_truth/ko/0084.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0085.png",
+          "mask": "02/ground_truth/ko/0085.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0086.png",
+          "mask": "02/ground_truth/ko/0086.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0087.png",
+          "mask": "02/ground_truth/ko/0087.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0088.png",
+          "mask": "02/ground_truth/ko/0088.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0089.png",
+          "mask": "02/ground_truth/ko/0089.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0090.png",
+          "mask": "02/ground_truth/ko/0090.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0091.png",
+          "mask": "02/ground_truth/ko/0091.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0092.png",
+          "mask": "02/ground_truth/ko/0092.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0093.png",
+          "mask": "02/ground_truth/ko/0093.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0094.png",
+          "mask": "02/ground_truth/ko/0094.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0095.png",
+          "mask": "02/ground_truth/ko/0095.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0096.png",
+          "mask": "02/ground_truth/ko/0096.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0097.png",
+          "mask": "02/ground_truth/ko/0097.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0098.png",
+          "mask": "02/ground_truth/ko/0098.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0099.png",
+          "mask": "02/ground_truth/ko/0099.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0100.png",
+          "mask": "02/ground_truth/ko/0100.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0101.png",
+          "mask": "02/ground_truth/ko/0101.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0102.png",
+          "mask": "02/ground_truth/ko/0102.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0103.png",
+          "mask": "02/ground_truth/ko/0103.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0104.png",
+          "mask": "02/ground_truth/ko/0104.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0105.png",
+          "mask": "02/ground_truth/ko/0105.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0106.png",
+          "mask": "02/ground_truth/ko/0106.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0107.png",
+          "mask": "02/ground_truth/ko/0107.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0108.png",
+          "mask": "02/ground_truth/ko/0108.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0109.png",
+          "mask": "02/ground_truth/ko/0109.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0110.png",
+          "mask": "02/ground_truth/ko/0110.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0111.png",
+          "mask": "02/ground_truth/ko/0111.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0112.png",
+          "mask": "02/ground_truth/ko/0112.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0113.png",
+          "mask": "02/ground_truth/ko/0113.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0114.png",
+          "mask": "02/ground_truth/ko/0114.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0115.png",
+          "mask": "02/ground_truth/ko/0115.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0116.png",
+          "mask": "02/ground_truth/ko/0116.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0117.png",
+          "mask": "02/ground_truth/ko/0117.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0118.png",
+          "mask": "02/ground_truth/ko/0118.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0119.png",
+          "mask": "02/ground_truth/ko/0119.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0120.png",
+          "mask": "02/ground_truth/ko/0120.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0121.png",
+          "mask": "02/ground_truth/ko/0121.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0122.png",
+          "mask": "02/ground_truth/ko/0122.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0123.png",
+          "mask": "02/ground_truth/ko/0123.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0124.png",
+          "mask": "02/ground_truth/ko/0124.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0125.png",
+          "mask": "02/ground_truth/ko/0125.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0126.png",
+          "mask": "02/ground_truth/ko/0126.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0127.png",
+          "mask": "02/ground_truth/ko/0127.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0128.png",
+          "mask": "02/ground_truth/ko/0128.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0129.png",
+          "mask": "02/ground_truth/ko/0129.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0130.png",
+          "mask": "02/ground_truth/ko/0130.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0131.png",
+          "mask": "02/ground_truth/ko/0131.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0132.png",
+          "mask": "02/ground_truth/ko/0132.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0133.png",
+          "mask": "02/ground_truth/ko/0133.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0134.png",
+          "mask": "02/ground_truth/ko/0134.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0135.png",
+          "mask": "02/ground_truth/ko/0135.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0136.png",
+          "mask": "02/ground_truth/ko/0136.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0137.png",
+          "mask": "02/ground_truth/ko/0137.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0138.png",
+          "mask": "02/ground_truth/ko/0138.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0139.png",
+          "mask": "02/ground_truth/ko/0139.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0140.png",
+          "mask": "02/ground_truth/ko/0140.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0141.png",
+          "mask": "02/ground_truth/ko/0141.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0142.png",
+          "mask": "02/ground_truth/ko/0142.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0143.png",
+          "mask": "02/ground_truth/ko/0143.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0144.png",
+          "mask": "02/ground_truth/ko/0144.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0145.png",
+          "mask": "02/ground_truth/ko/0145.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0146.png",
+          "mask": "02/ground_truth/ko/0146.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0147.png",
+          "mask": "02/ground_truth/ko/0147.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0148.png",
+          "mask": "02/ground_truth/ko/0148.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0149.png",
+          "mask": "02/ground_truth/ko/0149.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0150.png",
+          "mask": "02/ground_truth/ko/0150.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0151.png",
+          "mask": "02/ground_truth/ko/0151.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0152.png",
+          "mask": "02/ground_truth/ko/0152.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0153.png",
+          "mask": "02/ground_truth/ko/0153.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0154.png",
+          "mask": "02/ground_truth/ko/0154.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0155.png",
+          "mask": "02/ground_truth/ko/0155.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0156.png",
+          "mask": "02/ground_truth/ko/0156.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0157.png",
+          "mask": "02/ground_truth/ko/0157.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0158.png",
+          "mask": "02/ground_truth/ko/0158.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0159.png",
+          "mask": "02/ground_truth/ko/0159.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0160.png",
+          "mask": "02/ground_truth/ko/0160.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0161.png",
+          "mask": "02/ground_truth/ko/0161.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0162.png",
+          "mask": "02/ground_truth/ko/0162.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0163.png",
+          "mask": "02/ground_truth/ko/0163.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0164.png",
+          "mask": "02/ground_truth/ko/0164.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0165.png",
+          "mask": "02/ground_truth/ko/0165.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0166.png",
+          "mask": "02/ground_truth/ko/0166.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0167.png",
+          "mask": "02/ground_truth/ko/0167.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0168.png",
+          "mask": "02/ground_truth/ko/0168.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0169.png",
+          "mask": "02/ground_truth/ko/0169.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0170.png",
+          "mask": "02/ground_truth/ko/0170.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0171.png",
+          "mask": "02/ground_truth/ko/0171.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0172.png",
+          "mask": "02/ground_truth/ko/0172.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0173.png",
+          "mask": "02/ground_truth/ko/0173.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0174.png",
+          "mask": "02/ground_truth/ko/0174.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0175.png",
+          "mask": "02/ground_truth/ko/0175.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0176.png",
+          "mask": "02/ground_truth/ko/0176.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0177.png",
+          "mask": "02/ground_truth/ko/0177.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0178.png",
+          "mask": "02/ground_truth/ko/0178.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0179.png",
+          "mask": "02/ground_truth/ko/0179.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0180.png",
+          "mask": "02/ground_truth/ko/0180.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0181.png",
+          "mask": "02/ground_truth/ko/0181.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0182.png",
+          "mask": "02/ground_truth/ko/0182.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0183.png",
+          "mask": "02/ground_truth/ko/0183.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0184.png",
+          "mask": "02/ground_truth/ko/0184.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0185.png",
+          "mask": "02/ground_truth/ko/0185.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0186.png",
+          "mask": "02/ground_truth/ko/0186.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0187.png",
+          "mask": "02/ground_truth/ko/0187.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0188.png",
+          "mask": "02/ground_truth/ko/0188.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0189.png",
+          "mask": "02/ground_truth/ko/0189.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0190.png",
+          "mask": "02/ground_truth/ko/0190.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0191.png",
+          "mask": "02/ground_truth/ko/0191.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0192.png",
+          "mask": "02/ground_truth/ko/0192.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0193.png",
+          "mask": "02/ground_truth/ko/0193.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0194.png",
+          "mask": "02/ground_truth/ko/0194.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0195.png",
+          "mask": "02/ground_truth/ko/0195.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0196.png",
+          "mask": "02/ground_truth/ko/0196.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0197.png",
+          "mask": "02/ground_truth/ko/0197.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0198.png",
+          "mask": "02/ground_truth/ko/0198.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "02/test/ko/0199.png",
+          "mask": "02/ground_truth/ko/0199.png"
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "normal",
+          "image": "02/test/ok/0000.png",
+          "mask": ""
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "normal",
+          "image": "02/test/ok/0001.png",
+          "mask": ""
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "normal",
+          "image": "02/test/ok/0002.png",
+          "mask": ""
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "normal",
+          "image": "02/test/ok/0003.png",
+          "mask": ""
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "normal",
+          "image": "02/test/ok/0004.png",
+          "mask": ""
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "normal",
+          "image": "02/test/ok/0005.png",
+          "mask": ""
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "normal",
+          "image": "02/test/ok/0006.png",
+          "mask": ""
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "normal",
+          "image": "02/test/ok/0007.png",
+          "mask": ""
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "normal",
+          "image": "02/test/ok/0008.png",
+          "mask": ""
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "normal",
+          "image": "02/test/ok/0009.png",
+          "mask": ""
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "normal",
+          "image": "02/test/ok/0010.png",
+          "mask": ""
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "normal",
+          "image": "02/test/ok/0011.png",
+          "mask": ""
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "normal",
+          "image": "02/test/ok/0012.png",
+          "mask": ""
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "normal",
+          "image": "02/test/ok/0013.png",
+          "mask": ""
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "normal",
+          "image": "02/test/ok/0014.png",
+          "mask": ""
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "normal",
+          "image": "02/test/ok/0015.png",
+          "mask": ""
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "normal",
+          "image": "02/test/ok/0016.png",
+          "mask": ""
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "normal",
+          "image": "02/test/ok/0017.png",
+          "mask": ""
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "normal",
+          "image": "02/test/ok/0018.png",
+          "mask": ""
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "normal",
+          "image": "02/test/ok/0019.png",
+          "mask": ""
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "normal",
+          "image": "02/test/ok/0020.png",
+          "mask": ""
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "normal",
+          "image": "02/test/ok/0021.png",
+          "mask": ""
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "normal",
+          "image": "02/test/ok/0022.png",
+          "mask": ""
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "normal",
+          "image": "02/test/ok/0023.png",
+          "mask": ""
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "normal",
+          "image": "02/test/ok/0024.png",
+          "mask": ""
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "normal",
+          "image": "02/test/ok/0025.png",
+          "mask": ""
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "normal",
+          "image": "02/test/ok/0026.png",
+          "mask": ""
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "normal",
+          "image": "02/test/ok/0027.png",
+          "mask": ""
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "normal",
+          "image": "02/test/ok/0028.png",
+          "mask": ""
+        },
+        {
+          "category": "02",
+          "phase": "test",
+          "label": "normal",
+          "image": "02/test/ok/0029.png",
+          "mask": ""
+        }
+      ]
+    },
+    "03": {
+      "support": [
+        {
+          "image": "03/train/ok/0926.bmp",
+          "sha256": "4fa50f65263ee41b515e61526dc8e61279161f02fec5c405e90a37a48df5be28"
+        },
+        {
+          "image": "03/train/ok/0953.bmp",
+          "sha256": "c8b35a3fb2a2dc1ba2aa765993bf778399bc673d4fc156e59796c2d8eb07c06c"
+        },
+        {
+          "image": "03/train/ok/0547.bmp",
+          "sha256": "e29a79d63dbf1cf0e2e786cb1ff86882bcf2d0ba1bf92295006aa0b249919fd1"
+        },
+        {
+          "image": "03/train/ok/0980.bmp",
+          "sha256": "13324e4747485d79d1a96d5ebce0c49308896e08b4f57f97f4616848792da045"
+        }
+      ],
+      "test": [
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "03/test/ko/0000.bmp",
+          "mask": "03/ground_truth/ko/0000.bmp"
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "03/test/ko/0001.bmp",
+          "mask": "03/ground_truth/ko/0001.bmp"
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "03/test/ko/0002.bmp",
+          "mask": "03/ground_truth/ko/0002.bmp"
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "03/test/ko/0003.bmp",
+          "mask": "03/ground_truth/ko/0003.bmp"
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "03/test/ko/0004.bmp",
+          "mask": "03/ground_truth/ko/0004.bmp"
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "03/test/ko/0005.bmp",
+          "mask": "03/ground_truth/ko/0005.bmp"
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "03/test/ko/0006.bmp",
+          "mask": "03/ground_truth/ko/0006.bmp"
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "03/test/ko/0007.bmp",
+          "mask": "03/ground_truth/ko/0007.bmp"
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "03/test/ko/0008.bmp",
+          "mask": "03/ground_truth/ko/0008.bmp"
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "03/test/ko/0009.bmp",
+          "mask": "03/ground_truth/ko/0009.bmp"
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "03/test/ko/0010.bmp",
+          "mask": "03/ground_truth/ko/0010.bmp"
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "03/test/ko/0011.bmp",
+          "mask": "03/ground_truth/ko/0011.bmp"
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "03/test/ko/0012.bmp",
+          "mask": "03/ground_truth/ko/0012.bmp"
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "03/test/ko/0013.bmp",
+          "mask": "03/ground_truth/ko/0013.bmp"
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "03/test/ko/0014.bmp",
+          "mask": "03/ground_truth/ko/0014.bmp"
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "03/test/ko/0015.bmp",
+          "mask": "03/ground_truth/ko/0015.bmp"
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "03/test/ko/0016.bmp",
+          "mask": "03/ground_truth/ko/0016.bmp"
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "03/test/ko/0017.bmp",
+          "mask": "03/ground_truth/ko/0017.bmp"
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "03/test/ko/0018.bmp",
+          "mask": "03/ground_truth/ko/0018.bmp"
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "03/test/ko/0019.bmp",
+          "mask": "03/ground_truth/ko/0019.bmp"
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "03/test/ko/0020.bmp",
+          "mask": "03/ground_truth/ko/0020.bmp"
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "03/test/ko/0021.bmp",
+          "mask": "03/ground_truth/ko/0021.bmp"
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "03/test/ko/0022.bmp",
+          "mask": "03/ground_truth/ko/0022.bmp"
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "03/test/ko/0023.bmp",
+          "mask": "03/ground_truth/ko/0023.bmp"
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "03/test/ko/0024.bmp",
+          "mask": "03/ground_truth/ko/0024.bmp"
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "03/test/ko/0025.bmp",
+          "mask": "03/ground_truth/ko/0025.bmp"
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "03/test/ko/0026.bmp",
+          "mask": "03/ground_truth/ko/0026.bmp"
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "03/test/ko/0027.bmp",
+          "mask": "03/ground_truth/ko/0027.bmp"
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "03/test/ko/0028.bmp",
+          "mask": "03/ground_truth/ko/0028.bmp"
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "03/test/ko/0029.bmp",
+          "mask": "03/ground_truth/ko/0029.bmp"
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "03/test/ko/0030.bmp",
+          "mask": "03/ground_truth/ko/0030.bmp"
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "03/test/ko/0031.bmp",
+          "mask": "03/ground_truth/ko/0031.bmp"
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "03/test/ko/0032.bmp",
+          "mask": "03/ground_truth/ko/0032.bmp"
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "03/test/ko/0033.bmp",
+          "mask": "03/ground_truth/ko/0033.bmp"
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "03/test/ko/0034.bmp",
+          "mask": "03/ground_truth/ko/0034.bmp"
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "03/test/ko/0035.bmp",
+          "mask": "03/ground_truth/ko/0035.bmp"
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "03/test/ko/0036.bmp",
+          "mask": "03/ground_truth/ko/0036.bmp"
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "03/test/ko/0037.bmp",
+          "mask": "03/ground_truth/ko/0037.bmp"
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "03/test/ko/0038.bmp",
+          "mask": "03/ground_truth/ko/0038.bmp"
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "03/test/ko/0039.bmp",
+          "mask": "03/ground_truth/ko/0039.bmp"
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "anomaly",
+          "image": "03/test/ko/0040.bmp",
+          "mask": "03/ground_truth/ko/0040.bmp"
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0000.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0001.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0002.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0003.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0004.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0005.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0006.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0007.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0008.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0009.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0010.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0011.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0012.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0013.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0014.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0015.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0016.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0017.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0018.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0019.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0020.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0021.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0022.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0023.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0024.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0025.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0026.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0027.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0028.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0029.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0030.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0031.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0032.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0033.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0034.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0035.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0036.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0037.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0038.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0039.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0040.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0041.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0042.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0043.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0044.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0045.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0046.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0047.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0048.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0049.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0050.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0051.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0052.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0053.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0054.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0055.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0056.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0057.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0058.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0059.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0060.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0061.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0062.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0063.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0064.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0065.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0066.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0067.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0068.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0069.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0070.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0071.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0072.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0073.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0074.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0075.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0076.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0077.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0078.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0079.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0080.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0081.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0082.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0083.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0084.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0085.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0086.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0087.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0088.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0089.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0090.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0091.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0092.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0093.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0094.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0095.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0096.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0097.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0098.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0099.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0100.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0101.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0102.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0103.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0104.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0105.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0106.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0107.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0108.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0109.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0110.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0111.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0112.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0113.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0114.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0115.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0116.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0117.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0118.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0119.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0120.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0121.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0122.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0123.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0124.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0125.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0126.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0127.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0128.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0129.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0130.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0131.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0132.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0133.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0134.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0135.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0136.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0137.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0138.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0139.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0140.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0141.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0142.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0143.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0144.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0145.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0146.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0147.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0148.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0149.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0150.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0151.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0152.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0153.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0154.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0155.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0156.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0157.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0158.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0159.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0160.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0161.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0162.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0163.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0164.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0165.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0166.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0167.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0168.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0169.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0170.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0171.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0172.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0173.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0174.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0175.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0176.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0177.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0178.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0179.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0180.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0181.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0182.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0183.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0184.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0185.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0186.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0187.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0188.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0189.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0190.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0191.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0192.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0193.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0194.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0195.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0196.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0197.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0198.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0199.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0200.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0201.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0202.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0203.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0204.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0205.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0206.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0207.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0208.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0209.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0210.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0211.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0212.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0213.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0214.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0215.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0216.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0217.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0218.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0219.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0220.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0221.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0222.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0223.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0224.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0225.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0226.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0227.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0228.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0229.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0230.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0231.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0232.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0233.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0234.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0235.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0236.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0237.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0238.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0239.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0240.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0241.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0242.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0243.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0244.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0245.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0246.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0247.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0248.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0249.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0250.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0251.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0252.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0253.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0254.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0255.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0256.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0257.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0258.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0259.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0260.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0261.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0262.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0263.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0264.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0265.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0266.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0267.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0268.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0269.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0270.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0271.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0272.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0273.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0274.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0275.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0276.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0277.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0278.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0279.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0280.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0281.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0282.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0283.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0284.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0285.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0286.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0287.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0288.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0289.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0290.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0291.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0292.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0293.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0294.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0295.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0296.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0297.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0298.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0299.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0300.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0301.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0302.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0303.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0304.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0305.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0306.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0307.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0308.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0309.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0310.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0311.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0312.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0313.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0314.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0315.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0316.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0317.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0318.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0319.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0320.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0321.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0322.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0323.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0324.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0325.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0326.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0327.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0328.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0329.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0330.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0331.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0332.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0333.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0334.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0335.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0336.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0337.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0338.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0339.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0340.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0341.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0342.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0343.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0344.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0345.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0346.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0347.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0348.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0349.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0350.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0351.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0352.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0353.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0354.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0355.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0356.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0357.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0358.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0359.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0360.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0361.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0362.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0363.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0364.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0365.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0366.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0367.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0368.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0369.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0370.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0371.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0372.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0373.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0374.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0375.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0376.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0377.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0378.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0379.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0380.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0381.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0382.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0383.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0384.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0385.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0386.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0387.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0388.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0389.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0390.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0391.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0392.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0393.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0394.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0395.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0396.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0397.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0398.bmp",
+          "mask": ""
+        },
+        {
+          "category": "03",
+          "phase": "test",
+          "label": "normal",
+          "image": "03/test/ok/0399.bmp",
+          "mask": ""
+        }
+      ]
+    }
+  }
+}
